@@ -1,0 +1,45 @@
+{
+  "id": "VU01055",
+  "level": 2,
+  "level_name": {
+    "local": "Area Council",
+    "en": "Area Council"
+  },
+  "name": {
+    "local": "Torres",
+    "en": "Torres",
+    "slug": "torres-vu01055"
+  },
+  "code": {
+    "id": "VU01055",
+    "iso": null
+  },
+  "parent": {
+    "id": "VU01",
+    "level": 1,
+    "name": {
+      "local": "Torba",
+      "en": "Torba",
+      "slug": "torba-vu01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "VU01",
+      "level": 1,
+      "name": {
+        "local": "Torba",
+        "en": "Torba",
+        "slug": "torba-vu01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.246",
+    "lon": "166.624"
+  },
+  "metadata": {},
+  "source": {}
+}

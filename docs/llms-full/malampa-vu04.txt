@@ -1,0 +1,59 @@
+# Malampa — Vanuatu Administrative Divisions
+
+> 10 area councils
+> Code: VU04
+> Coordinates: -16.236, 168.067
+> Last updated: 2026-06-08. License: CC-BY-4.0.
+
+## Area Councils
+
+### Central Malekula
+
+Code: VU04008, Coordinates: -16.165, 167.437
+
+
+### North Ambrym
+
+Code: VU04011, Coordinates: -16.178, 168.143
+
+
+### North East Malekula
+
+Code: VU04007, Coordinates: -15.963, 167.294
+
+
+### North West Malekula
+
+Code: VU04006, Coordinates: -16.022, 167.233
+
+
+### Paama
+
+Code: VU04013, Coordinates: -16.508, 168.337
+
+
+### South East Ambrym
+
+Code: VU04012, Coordinates: -16.303, 168.225
+
+
+### South East Malekula
+
+Code: VU04009, Coordinates: -16.314, 167.642
+
+
+### South Malekula
+
+Code: VU04058, Coordinates: -16.471, 167.702
+
+
+### South West Malekula
+
+Code: VU04059, Coordinates: -16.422, 167.517
+
+
+### West Ambrym
+
+Code: VU04010, Coordinates: -16.285, 168.05
+
+

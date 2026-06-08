@@ -1,0 +1,45 @@
+{
+  "id": "VU01054",
+  "level": 2,
+  "level_name": {
+    "local": "Area Council",
+    "en": "Area Council"
+  },
+  "name": {
+    "local": "Vanua Lava",
+    "en": "Vanua Lava",
+    "slug": "vanua-lava-vu01054"
+  },
+  "code": {
+    "id": "VU01054",
+    "iso": null
+  },
+  "parent": {
+    "id": "VU01",
+    "level": 1,
+    "name": {
+      "local": "Torba",
+      "en": "Torba",
+      "slug": "torba-vu01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "VU01",
+      "level": 1,
+      "name": {
+        "local": "Torba",
+        "en": "Torba",
+        "slug": "torba-vu01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.839",
+    "lon": "167.46"
+  },
+  "metadata": {},
+  "source": {}
+}

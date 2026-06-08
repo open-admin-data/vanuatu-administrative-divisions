@@ -1,0 +1,45 @@
+{
+  "id": "VU05002",
+  "level": 2,
+  "level_name": {
+    "local": "Area Council",
+    "en": "Area Council"
+  },
+  "name": {
+    "local": "Port Vila",
+    "en": "Port Vila",
+    "slug": "port-vila-vu05002"
+  },
+  "code": {
+    "id": "VU05002",
+    "iso": null
+  },
+  "parent": {
+    "id": "VU05",
+    "level": 1,
+    "name": {
+      "local": "Shefa",
+      "en": "Shefa",
+      "slug": "shefa-vu05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "VU05",
+      "level": 1,
+      "name": {
+        "local": "Shefa",
+        "en": "Shefa",
+        "slug": "shefa-vu05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.732",
+    "lon": "168.328"
+  },
+  "metadata": {},
+  "source": {}
+}

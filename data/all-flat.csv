@@ -1,0 +1,8 @@
+# Data from Open Admin Data (https://openadmindata.org/vu/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/vanuatu-administrative-divisions
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.province,children_count.area_council,zip_codes,geo.lat,geo.lon,source_url
+VU01,1,Province,Province,Torba,Torba,torba-vu01,VU01,,,,,,7,,-14.284,167.513,https://openadmindata.org/vu/provinces/torba-vu01/
+VU02,1,Province,Province,Sanma,Sanma,sanma-vu02,VU02,,,,,,10,,-15.157,167.051,https://openadmindata.org/vu/provinces/sanma-vu02/
+VU03,1,Province,Province,Penama,Penama,penama-vu03,VU03,,,,,,10,,-15.376,167.833,https://openadmindata.org/vu/provinces/penama-vu03/
+VU04,1,Province,Province,Malampa,Malampa,malampa-vu04,VU04,,,,,,10,,-16.236,168.067,https://openadmindata.org/vu/provinces/malampa-vu04/
+VU05,1,Province,Province,Shefa,Shefa,shefa-vu05,VU05,,,,,,18,,-17.674,168.365,https://openadmindata.org/vu/provinces/shefa-vu05/
+VU06,1,Province,Province,Tafea,Tafea,tafea-vu06,VU06,,,,,,11,,-18.809,169.111,https://openadmindata.org/vu/provinces/tafea-vu06/

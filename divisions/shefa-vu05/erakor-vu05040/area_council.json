@@ -1,0 +1,45 @@
+{
+  "id": "VU05040",
+  "level": 2,
+  "level_name": {
+    "local": "Area Council",
+    "en": "Area Council"
+  },
+  "name": {
+    "local": "Erakor",
+    "en": "Erakor",
+    "slug": "erakor-vu05040"
+  },
+  "code": {
+    "id": "VU05040",
+    "iso": null
+  },
+  "parent": {
+    "id": "VU05",
+    "level": 1,
+    "name": {
+      "local": "Shefa",
+      "en": "Shefa",
+      "slug": "shefa-vu05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "VU05",
+      "level": 1,
+      "name": {
+        "local": "Shefa",
+        "en": "Shefa",
+        "slug": "shefa-vu05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.691",
+    "lon": "168.372"
+  },
+  "metadata": {},
+  "source": {}
+}

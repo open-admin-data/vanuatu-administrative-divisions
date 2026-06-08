@@ -1,0 +1,452 @@
+[
+  {
+    "id": "VU04008",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Central Malekula",
+      "en": "Central Malekula",
+      "slug": "central-malekula-vu04008"
+    },
+    "code": {
+      "id": "VU04008",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU04",
+      "level": 1,
+      "name": {
+        "local": "Malampa",
+        "en": "Malampa",
+        "slug": "malampa-vu04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU04",
+        "level": 1,
+        "name": {
+          "local": "Malampa",
+          "en": "Malampa",
+          "slug": "malampa-vu04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.165",
+      "lon": "167.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU04011",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "North Ambrym",
+      "en": "North Ambrym",
+      "slug": "north-ambrym-vu04011"
+    },
+    "code": {
+      "id": "VU04011",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU04",
+      "level": 1,
+      "name": {
+        "local": "Malampa",
+        "en": "Malampa",
+        "slug": "malampa-vu04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU04",
+        "level": 1,
+        "name": {
+          "local": "Malampa",
+          "en": "Malampa",
+          "slug": "malampa-vu04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.178",
+      "lon": "168.143"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU04007",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "North East Malekula",
+      "en": "North East Malekula",
+      "slug": "north-east-malekula-vu04007"
+    },
+    "code": {
+      "id": "VU04007",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU04",
+      "level": 1,
+      "name": {
+        "local": "Malampa",
+        "en": "Malampa",
+        "slug": "malampa-vu04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU04",
+        "level": 1,
+        "name": {
+          "local": "Malampa",
+          "en": "Malampa",
+          "slug": "malampa-vu04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.963",
+      "lon": "167.294"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU04006",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "North West Malekula",
+      "en": "North West Malekula",
+      "slug": "north-west-malekula-vu04006"
+    },
+    "code": {
+      "id": "VU04006",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU04",
+      "level": 1,
+      "name": {
+        "local": "Malampa",
+        "en": "Malampa",
+        "slug": "malampa-vu04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU04",
+        "level": 1,
+        "name": {
+          "local": "Malampa",
+          "en": "Malampa",
+          "slug": "malampa-vu04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.022",
+      "lon": "167.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU04013",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Paama",
+      "en": "Paama",
+      "slug": "paama-vu04013"
+    },
+    "code": {
+      "id": "VU04013",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU04",
+      "level": 1,
+      "name": {
+        "local": "Malampa",
+        "en": "Malampa",
+        "slug": "malampa-vu04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU04",
+        "level": 1,
+        "name": {
+          "local": "Malampa",
+          "en": "Malampa",
+          "slug": "malampa-vu04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.508",
+      "lon": "168.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU04012",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "South East Ambrym",
+      "en": "South East Ambrym",
+      "slug": "south-east-ambrym-vu04012"
+    },
+    "code": {
+      "id": "VU04012",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU04",
+      "level": 1,
+      "name": {
+        "local": "Malampa",
+        "en": "Malampa",
+        "slug": "malampa-vu04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU04",
+        "level": 1,
+        "name": {
+          "local": "Malampa",
+          "en": "Malampa",
+          "slug": "malampa-vu04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.303",
+      "lon": "168.225"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU04009",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "South East Malekula",
+      "en": "South East Malekula",
+      "slug": "south-east-malekula-vu04009"
+    },
+    "code": {
+      "id": "VU04009",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU04",
+      "level": 1,
+      "name": {
+        "local": "Malampa",
+        "en": "Malampa",
+        "slug": "malampa-vu04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU04",
+        "level": 1,
+        "name": {
+          "local": "Malampa",
+          "en": "Malampa",
+          "slug": "malampa-vu04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.314",
+      "lon": "167.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU04058",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "South Malekula",
+      "en": "South Malekula",
+      "slug": "south-malekula-vu04058"
+    },
+    "code": {
+      "id": "VU04058",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU04",
+      "level": 1,
+      "name": {
+        "local": "Malampa",
+        "en": "Malampa",
+        "slug": "malampa-vu04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU04",
+        "level": 1,
+        "name": {
+          "local": "Malampa",
+          "en": "Malampa",
+          "slug": "malampa-vu04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.471",
+      "lon": "167.702"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU04059",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "South West Malekula",
+      "en": "South West Malekula",
+      "slug": "south-west-malekula-vu04059"
+    },
+    "code": {
+      "id": "VU04059",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU04",
+      "level": 1,
+      "name": {
+        "local": "Malampa",
+        "en": "Malampa",
+        "slug": "malampa-vu04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU04",
+        "level": 1,
+        "name": {
+          "local": "Malampa",
+          "en": "Malampa",
+          "slug": "malampa-vu04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.422",
+      "lon": "167.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU04010",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "West Ambrym",
+      "en": "West Ambrym",
+      "slug": "west-ambrym-vu04010"
+    },
+    "code": {
+      "id": "VU04010",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU04",
+      "level": 1,
+      "name": {
+        "local": "Malampa",
+        "en": "Malampa",
+        "slug": "malampa-vu04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU04",
+        "level": 1,
+        "name": {
+          "local": "Malampa",
+          "en": "Malampa",
+          "slug": "malampa-vu04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.285",
+      "lon": "168.05"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

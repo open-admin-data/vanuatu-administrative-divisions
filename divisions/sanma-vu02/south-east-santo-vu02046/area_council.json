@@ -1,0 +1,45 @@
+{
+  "id": "VU02046",
+  "level": 2,
+  "level_name": {
+    "local": "Area Council",
+    "en": "Area Council"
+  },
+  "name": {
+    "local": "South East Santo",
+    "en": "South East Santo",
+    "slug": "south-east-santo-vu02046"
+  },
+  "code": {
+    "id": "VU02046",
+    "iso": null
+  },
+  "parent": {
+    "id": "VU02",
+    "level": 1,
+    "name": {
+      "local": "Sanma",
+      "en": "Sanma",
+      "slug": "sanma-vu02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "VU02",
+      "level": 1,
+      "name": {
+        "local": "Sanma",
+        "en": "Sanma",
+        "slug": "sanma-vu02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.404",
+    "lon": "167.05"
+  },
+  "metadata": {},
+  "source": {}
+}

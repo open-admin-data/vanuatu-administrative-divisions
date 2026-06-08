@@ -1,0 +1,45 @@
+{
+  "id": "VU01066",
+  "level": 2,
+  "level_name": {
+    "local": "Area Council",
+    "en": "Area Council"
+  },
+  "name": {
+    "local": "Ureparapara",
+    "en": "Ureparapara",
+    "slug": "ureparapara-vu01066"
+  },
+  "code": {
+    "id": "VU01066",
+    "iso": null
+  },
+  "parent": {
+    "id": "VU01",
+    "level": 1,
+    "name": {
+      "local": "Torba",
+      "en": "Torba",
+      "slug": "torba-vu01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "VU01",
+      "level": 1,
+      "name": {
+        "local": "Torba",
+        "en": "Torba",
+        "slug": "torba-vu01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.537",
+    "lon": "167.312"
+  },
+  "metadata": {},
+  "source": {}
+}

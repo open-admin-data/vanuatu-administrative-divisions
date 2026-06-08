@@ -1,0 +1,33 @@
+{
+  "id": "VU06",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Tafea",
+    "en": "Tafea",
+    "slug": "tafea-vu06"
+  },
+  "code": {
+    "id": "VU06",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "area_council": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.809",
+    "lon": "169.111"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/vu/provinces/tafea-vu06/",
+    "api": "https://openadmindata.org/api/vu/"
+  }
+}

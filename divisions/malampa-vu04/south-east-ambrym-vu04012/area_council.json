@@ -1,0 +1,45 @@
+{
+  "id": "VU04012",
+  "level": 2,
+  "level_name": {
+    "local": "Area Council",
+    "en": "Area Council"
+  },
+  "name": {
+    "local": "South East Ambrym",
+    "en": "South East Ambrym",
+    "slug": "south-east-ambrym-vu04012"
+  },
+  "code": {
+    "id": "VU04012",
+    "iso": null
+  },
+  "parent": {
+    "id": "VU04",
+    "level": 1,
+    "name": {
+      "local": "Malampa",
+      "en": "Malampa",
+      "slug": "malampa-vu04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "VU04",
+      "level": 1,
+      "name": {
+        "local": "Malampa",
+        "en": "Malampa",
+        "slug": "malampa-vu04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.303",
+    "lon": "168.225"
+  },
+  "metadata": {},
+  "source": {}
+}

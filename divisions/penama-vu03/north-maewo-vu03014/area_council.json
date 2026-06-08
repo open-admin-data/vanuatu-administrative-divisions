@@ -1,0 +1,45 @@
+{
+  "id": "VU03014",
+  "level": 2,
+  "level_name": {
+    "local": "Area Council",
+    "en": "Area Council"
+  },
+  "name": {
+    "local": "North Maewo",
+    "en": "North Maewo",
+    "slug": "north-maewo-vu03014"
+  },
+  "code": {
+    "id": "VU03014",
+    "iso": null
+  },
+  "parent": {
+    "id": "VU03",
+    "level": 1,
+    "name": {
+      "local": "Penama",
+      "en": "Penama",
+      "slug": "penama-vu03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "VU03",
+      "level": 1,
+      "name": {
+        "local": "Penama",
+        "en": "Penama",
+        "slug": "penama-vu03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.011",
+    "lon": "168.088"
+  },
+  "metadata": {},
+  "source": {}
+}

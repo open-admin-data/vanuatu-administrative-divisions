@@ -1,0 +1,45 @@
+{
+  "id": "VU01065",
+  "level": 2,
+  "level_name": {
+    "local": "Area Council",
+    "en": "Area Council"
+  },
+  "name": {
+    "local": "Merelava",
+    "en": "Merelava",
+    "slug": "merelava-vu01065"
+  },
+  "code": {
+    "id": "VU01065",
+    "iso": null
+  },
+  "parent": {
+    "id": "VU01",
+    "level": 1,
+    "name": {
+      "local": "Torba",
+      "en": "Torba",
+      "slug": "torba-vu01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "VU01",
+      "level": 1,
+      "name": {
+        "local": "Torba",
+        "en": "Torba",
+        "slug": "torba-vu01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.46",
+    "lon": "168.042"
+  },
+  "metadata": {},
+  "source": {}
+}

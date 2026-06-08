@@ -1,0 +1,33 @@
+{
+  "id": "VU04",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Malampa",
+    "en": "Malampa",
+    "slug": "malampa-vu04"
+  },
+  "code": {
+    "id": "VU04",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "area_council": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.236",
+    "lon": "168.067"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/vu/provinces/malampa-vu04/",
+    "api": "https://openadmindata.org/api/vu/"
+  }
+}

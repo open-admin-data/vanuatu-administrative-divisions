@@ -1,0 +1,45 @@
+{
+  "id": "VU05033",
+  "level": 2,
+  "level_name": {
+    "local": "Area Council",
+    "en": "Area Council"
+  },
+  "name": {
+    "local": "Makimae",
+    "en": "Makimae",
+    "slug": "makimae-vu05033"
+  },
+  "code": {
+    "id": "VU05033",
+    "iso": null
+  },
+  "parent": {
+    "id": "VU05",
+    "level": 1,
+    "name": {
+      "local": "Shefa",
+      "en": "Shefa",
+      "slug": "shefa-vu05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "VU05",
+      "level": 1,
+      "name": {
+        "local": "Shefa",
+        "en": "Shefa",
+        "slug": "shefa-vu05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.066",
+    "lon": "168.373"
+  },
+  "metadata": {},
+  "source": {}
+}

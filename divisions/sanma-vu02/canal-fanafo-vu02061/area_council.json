@@ -1,0 +1,45 @@
+{
+  "id": "VU02061",
+  "level": 2,
+  "level_name": {
+    "local": "Area Council",
+    "en": "Area Council"
+  },
+  "name": {
+    "local": "Canal - Fanafo",
+    "en": "Canal - Fanafo",
+    "slug": "canal-fanafo-vu02061"
+  },
+  "code": {
+    "id": "VU02061",
+    "iso": null
+  },
+  "parent": {
+    "id": "VU02",
+    "level": 1,
+    "name": {
+      "local": "Sanma",
+      "en": "Sanma",
+      "slug": "sanma-vu02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "VU02",
+      "level": 1,
+      "name": {
+        "local": "Sanma",
+        "en": "Sanma",
+        "slug": "sanma-vu02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.496",
+    "lon": "167.1"
+  },
+  "metadata": {},
+  "source": {}
+}

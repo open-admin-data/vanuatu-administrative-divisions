@@ -1,0 +1,497 @@
+[
+  {
+    "id": "VU06021",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Aneityum",
+      "en": "Aneityum",
+      "slug": "aneityum-vu06021"
+    },
+    "code": {
+      "id": "VU06021",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU06",
+      "level": 1,
+      "name": {
+        "local": "Tafea",
+        "en": "Tafea",
+        "slug": "tafea-vu06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU06",
+        "level": 1,
+        "name": {
+          "local": "Tafea",
+          "en": "Tafea",
+          "slug": "tafea-vu06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.194",
+      "lon": "169.826"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU06005",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Aniwa",
+      "en": "Aniwa",
+      "slug": "aniwa-vu06005"
+    },
+    "code": {
+      "id": "VU06005",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU06",
+      "level": 1,
+      "name": {
+        "local": "Tafea",
+        "en": "Tafea",
+        "slug": "tafea-vu06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU06",
+        "level": 1,
+        "name": {
+          "local": "Tafea",
+          "en": "Tafea",
+          "slug": "tafea-vu06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.244",
+      "lon": "169.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU06004",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Futuna",
+      "en": "Futuna",
+      "slug": "futuna-vu06004"
+    },
+    "code": {
+      "id": "VU06004",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU06",
+      "level": 1,
+      "name": {
+        "local": "Tafea",
+        "en": "Tafea",
+        "slug": "tafea-vu06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU06",
+        "level": 1,
+        "name": {
+          "local": "Tafea",
+          "en": "Tafea",
+          "slug": "tafea-vu06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.529",
+      "lon": "170.216"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU06062",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Middle Bush Tanna",
+      "en": "Middle Bush Tanna",
+      "slug": "middle-bush-tanna-vu06062"
+    },
+    "code": {
+      "id": "VU06062",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU06",
+      "level": 1,
+      "name": {
+        "local": "Tafea",
+        "en": "Tafea",
+        "slug": "tafea-vu06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU06",
+        "level": 1,
+        "name": {
+          "local": "Tafea",
+          "en": "Tafea",
+          "slug": "tafea-vu06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.465",
+      "lon": "169.316"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU06019",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "North Erromango",
+      "en": "North Erromango",
+      "slug": "north-erromango-vu06019"
+    },
+    "code": {
+      "id": "VU06019",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU06",
+      "level": 1,
+      "name": {
+        "local": "Tafea",
+        "en": "Tafea",
+        "slug": "tafea-vu06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU06",
+        "level": 1,
+        "name": {
+          "local": "Tafea",
+          "en": "Tafea",
+          "slug": "tafea-vu06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.762",
+      "lon": "169.132"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU06026",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "North Tanna",
+      "en": "North Tanna",
+      "slug": "north-tanna-vu06026"
+    },
+    "code": {
+      "id": "VU06026",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU06",
+      "level": 1,
+      "name": {
+        "local": "Tafea",
+        "en": "Tafea",
+        "slug": "tafea-vu06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU06",
+        "level": 1,
+        "name": {
+          "local": "Tafea",
+          "en": "Tafea",
+          "slug": "tafea-vu06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.371",
+      "lon": "169.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU06020",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "South Erromango",
+      "en": "South Erromango",
+      "slug": "south-erromango-vu06020"
+    },
+    "code": {
+      "id": "VU06020",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU06",
+      "level": 1,
+      "name": {
+        "local": "Tafea",
+        "en": "Tafea",
+        "slug": "tafea-vu06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU06",
+        "level": 1,
+        "name": {
+          "local": "Tafea",
+          "en": "Tafea",
+          "slug": "tafea-vu06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.905",
+      "lon": "169.198"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU06022",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "South Tanna",
+      "en": "South Tanna",
+      "slug": "south-tanna-vu06022"
+    },
+    "code": {
+      "id": "VU06022",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU06",
+      "level": 1,
+      "name": {
+        "local": "Tafea",
+        "en": "Tafea",
+        "slug": "tafea-vu06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU06",
+        "level": 1,
+        "name": {
+          "local": "Tafea",
+          "en": "Tafea",
+          "slug": "tafea-vu06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.612",
+      "lon": "169.448"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU06023",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "South West Tanna",
+      "en": "South West Tanna",
+      "slug": "south-west-tanna-vu06023"
+    },
+    "code": {
+      "id": "VU06023",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU06",
+      "level": 1,
+      "name": {
+        "local": "Tafea",
+        "en": "Tafea",
+        "slug": "tafea-vu06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU06",
+        "level": 1,
+        "name": {
+          "local": "Tafea",
+          "en": "Tafea",
+          "slug": "tafea-vu06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.575",
+      "lon": "169.341"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU06025",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "West Tanna",
+      "en": "West Tanna",
+      "slug": "west-tanna-vu06025"
+    },
+    "code": {
+      "id": "VU06025",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU06",
+      "level": 1,
+      "name": {
+        "local": "Tafea",
+        "en": "Tafea",
+        "slug": "tafea-vu06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU06",
+        "level": 1,
+        "name": {
+          "local": "Tafea",
+          "en": "Tafea",
+          "slug": "tafea-vu06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.471",
+      "lon": "169.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU06024",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Whitesands",
+      "en": "Whitesands",
+      "slug": "whitesands-vu06024"
+    },
+    "code": {
+      "id": "VU06024",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU06",
+      "level": 1,
+      "name": {
+        "local": "Tafea",
+        "en": "Tafea",
+        "slug": "tafea-vu06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU06",
+        "level": 1,
+        "name": {
+          "local": "Tafea",
+          "en": "Tafea",
+          "slug": "tafea-vu06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.517",
+      "lon": "169.427"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

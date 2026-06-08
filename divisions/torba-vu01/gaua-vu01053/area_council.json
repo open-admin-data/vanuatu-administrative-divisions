@@ -1,0 +1,45 @@
+{
+  "id": "VU01053",
+  "level": 2,
+  "level_name": {
+    "local": "Area Council",
+    "en": "Area Council"
+  },
+  "name": {
+    "local": "Gaua",
+    "en": "Gaua",
+    "slug": "gaua-vu01053"
+  },
+  "code": {
+    "id": "VU01053",
+    "iso": null
+  },
+  "parent": {
+    "id": "VU01",
+    "level": 1,
+    "name": {
+      "local": "Torba",
+      "en": "Torba",
+      "slug": "torba-vu01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "VU01",
+      "level": 1,
+      "name": {
+        "local": "Torba",
+        "en": "Torba",
+        "slug": "torba-vu01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.284",
+    "lon": "167.513"
+  },
+  "metadata": {},
+  "source": {}
+}

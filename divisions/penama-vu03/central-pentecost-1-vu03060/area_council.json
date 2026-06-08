@@ -1,0 +1,45 @@
+{
+  "id": "VU03060",
+  "level": 2,
+  "level_name": {
+    "local": "Area Council",
+    "en": "Area Council"
+  },
+  "name": {
+    "local": "Central Pentecost 1",
+    "en": "Central Pentecost 1",
+    "slug": "central-pentecost-1-vu03060"
+  },
+  "code": {
+    "id": "VU03060",
+    "iso": null
+  },
+  "parent": {
+    "id": "VU03",
+    "level": 1,
+    "name": {
+      "local": "Penama",
+      "en": "Penama",
+      "slug": "penama-vu03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "VU03",
+      "level": 1,
+      "name": {
+        "local": "Penama",
+        "en": "Penama",
+        "slug": "penama-vu03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.648",
+    "lon": "168.157"
+  },
+  "metadata": {},
+  "source": {}
+}

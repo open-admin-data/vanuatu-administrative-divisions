@@ -1,0 +1,45 @@
+{
+  "id": "VU04008",
+  "level": 2,
+  "level_name": {
+    "local": "Area Council",
+    "en": "Area Council"
+  },
+  "name": {
+    "local": "Central Malekula",
+    "en": "Central Malekula",
+    "slug": "central-malekula-vu04008"
+  },
+  "code": {
+    "id": "VU04008",
+    "iso": null
+  },
+  "parent": {
+    "id": "VU04",
+    "level": 1,
+    "name": {
+      "local": "Malampa",
+      "en": "Malampa",
+      "slug": "malampa-vu04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "VU04",
+      "level": 1,
+      "name": {
+        "local": "Malampa",
+        "en": "Malampa",
+        "slug": "malampa-vu04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.165",
+    "lon": "167.437"
+  },
+  "metadata": {},
+  "source": {}
+}

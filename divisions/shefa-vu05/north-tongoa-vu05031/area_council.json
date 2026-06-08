@@ -1,0 +1,45 @@
+{
+  "id": "VU05031",
+  "level": 2,
+  "level_name": {
+    "local": "Area Council",
+    "en": "Area Council"
+  },
+  "name": {
+    "local": "North Tongoa",
+    "en": "North Tongoa",
+    "slug": "north-tongoa-vu05031"
+  },
+  "code": {
+    "id": "VU05031",
+    "iso": null
+  },
+  "parent": {
+    "id": "VU05",
+    "level": 1,
+    "name": {
+      "local": "Shefa",
+      "en": "Shefa",
+      "slug": "shefa-vu05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "VU05",
+      "level": 1,
+      "name": {
+        "local": "Shefa",
+        "en": "Shefa",
+        "slug": "shefa-vu05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.896",
+    "lon": "168.562"
+  },
+  "metadata": {},
+  "source": {}
+}

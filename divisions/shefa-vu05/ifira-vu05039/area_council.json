@@ -1,0 +1,45 @@
+{
+  "id": "VU05039",
+  "level": 2,
+  "level_name": {
+    "local": "Area Council",
+    "en": "Area Council"
+  },
+  "name": {
+    "local": "Ifira",
+    "en": "Ifira",
+    "slug": "ifira-vu05039"
+  },
+  "code": {
+    "id": "VU05039",
+    "iso": null
+  },
+  "parent": {
+    "id": "VU05",
+    "level": 1,
+    "name": {
+      "local": "Shefa",
+      "en": "Shefa",
+      "slug": "shefa-vu05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "VU05",
+      "level": 1,
+      "name": {
+        "local": "Shefa",
+        "en": "Shefa",
+        "slug": "shefa-vu05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.757",
+    "lon": "168.293"
+  },
+  "metadata": {},
+  "source": {}
+}

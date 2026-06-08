@@ -1,0 +1,33 @@
+{
+  "id": "VU01",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Torba",
+    "en": "Torba",
+    "slug": "torba-vu01"
+  },
+  "code": {
+    "id": "VU01",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "area_council": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.284",
+    "lon": "167.513"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/vu/provinces/torba-vu01/",
+    "api": "https://openadmindata.org/api/vu/"
+  }
+}

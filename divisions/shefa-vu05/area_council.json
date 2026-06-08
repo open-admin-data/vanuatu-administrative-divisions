@@ -1,0 +1,812 @@
+[
+  {
+    "id": "VU05034",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Emau",
+      "en": "Emau",
+      "slug": "emau-vu05034"
+    },
+    "code": {
+      "id": "VU05034",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU05",
+      "level": 1,
+      "name": {
+        "local": "Shefa",
+        "en": "Shefa",
+        "slug": "shefa-vu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU05",
+        "level": 1,
+        "name": {
+          "local": "Shefa",
+          "en": "Shefa",
+          "slug": "shefa-vu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.482",
+      "lon": "168.489"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU05040",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Erakor",
+      "en": "Erakor",
+      "slug": "erakor-vu05040"
+    },
+    "code": {
+      "id": "VU05040",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU05",
+      "level": 1,
+      "name": {
+        "local": "Shefa",
+        "en": "Shefa",
+        "slug": "shefa-vu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU05",
+        "level": 1,
+        "name": {
+          "local": "Shefa",
+          "en": "Shefa",
+          "slug": "shefa-vu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.691",
+      "lon": "168.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU05003",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Eratap",
+      "en": "Eratap",
+      "slug": "eratap-vu05003"
+    },
+    "code": {
+      "id": "VU05003",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU05",
+      "level": 1,
+      "name": {
+        "local": "Shefa",
+        "en": "Shefa",
+        "slug": "shefa-vu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU05",
+        "level": 1,
+        "name": {
+          "local": "Shefa",
+          "en": "Shefa",
+          "slug": "shefa-vu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.772",
+      "lon": "168.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU05037",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Eton",
+      "en": "Eton",
+      "slug": "eton-vu05037"
+    },
+    "code": {
+      "id": "VU05037",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU05",
+      "level": 1,
+      "name": {
+        "local": "Shefa",
+        "en": "Shefa",
+        "slug": "shefa-vu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU05",
+        "level": 1,
+        "name": {
+          "local": "Shefa",
+          "en": "Shefa",
+          "slug": "shefa-vu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.706",
+      "lon": "168.502"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU05039",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Ifira",
+      "en": "Ifira",
+      "slug": "ifira-vu05039"
+    },
+    "code": {
+      "id": "VU05039",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU05",
+      "level": 1,
+      "name": {
+        "local": "Shefa",
+        "en": "Shefa",
+        "slug": "shefa-vu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU05",
+        "level": 1,
+        "name": {
+          "local": "Shefa",
+          "en": "Shefa",
+          "slug": "shefa-vu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.757",
+      "lon": "168.293"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU05033",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Makimae",
+      "en": "Makimae",
+      "slug": "makimae-vu05033"
+    },
+    "code": {
+      "id": "VU05033",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU05",
+      "level": 1,
+      "name": {
+        "local": "Shefa",
+        "en": "Shefa",
+        "slug": "shefa-vu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU05",
+        "level": 1,
+        "name": {
+          "local": "Shefa",
+          "en": "Shefa",
+          "slug": "shefa-vu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.066",
+      "lon": "168.373"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU05041",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Malorua",
+      "en": "Malorua",
+      "slug": "malorua-vu05041"
+    },
+    "code": {
+      "id": "VU05041",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU05",
+      "level": 1,
+      "name": {
+        "local": "Shefa",
+        "en": "Shefa",
+        "slug": "shefa-vu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU05",
+        "level": 1,
+        "name": {
+          "local": "Shefa",
+          "en": "Shefa",
+          "slug": "shefa-vu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.633",
+      "lon": "168.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU05057",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Mele",
+      "en": "Mele",
+      "slug": "mele-vu05057"
+    },
+    "code": {
+      "id": "VU05057",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU05",
+      "level": 1,
+      "name": {
+        "local": "Shefa",
+        "en": "Shefa",
+        "slug": "shefa-vu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU05",
+        "level": 1,
+        "name": {
+          "local": "Shefa",
+          "en": "Shefa",
+          "slug": "shefa-vu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.649",
+      "lon": "168.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU05036",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Nguna",
+      "en": "Nguna",
+      "slug": "nguna-vu05036"
+    },
+    "code": {
+      "id": "VU05036",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU05",
+      "level": 1,
+      "name": {
+        "local": "Shefa",
+        "en": "Shefa",
+        "slug": "shefa-vu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU05",
+        "level": 1,
+        "name": {
+          "local": "Shefa",
+          "en": "Shefa",
+          "slug": "shefa-vu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.448",
+      "lon": "168.351"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU05035",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "North Efate",
+      "en": "North Efate",
+      "slug": "north-efate-vu05035"
+    },
+    "code": {
+      "id": "VU05035",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU05",
+      "level": 1,
+      "name": {
+        "local": "Shefa",
+        "en": "Shefa",
+        "slug": "shefa-vu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU05",
+        "level": 1,
+        "name": {
+          "local": "Shefa",
+          "en": "Shefa",
+          "slug": "shefa-vu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.573",
+      "lon": "168.428"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU05031",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "North Tongoa",
+      "en": "North Tongoa",
+      "slug": "north-tongoa-vu05031"
+    },
+    "code": {
+      "id": "VU05031",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU05",
+      "level": 1,
+      "name": {
+        "local": "Shefa",
+        "en": "Shefa",
+        "slug": "shefa-vu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU05",
+        "level": 1,
+        "name": {
+          "local": "Shefa",
+          "en": "Shefa",
+          "slug": "shefa-vu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.896",
+      "lon": "168.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU05038",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Pango",
+      "en": "Pango",
+      "slug": "pango-vu05038"
+    },
+    "code": {
+      "id": "VU05038",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU05",
+      "level": 1,
+      "name": {
+        "local": "Shefa",
+        "en": "Shefa",
+        "slug": "shefa-vu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU05",
+        "level": 1,
+        "name": {
+          "local": "Shefa",
+          "en": "Shefa",
+          "slug": "shefa-vu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.771",
+      "lon": "168.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU05002",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Port Vila",
+      "en": "Port Vila",
+      "slug": "port-vila-vu05002"
+    },
+    "code": {
+      "id": "VU05002",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU05",
+      "level": 1,
+      "name": {
+        "local": "Shefa",
+        "en": "Shefa",
+        "slug": "shefa-vu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU05",
+        "level": 1,
+        "name": {
+          "local": "Shefa",
+          "en": "Shefa",
+          "slug": "shefa-vu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.732",
+      "lon": "168.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU05027",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "South Epi",
+      "en": "South Epi",
+      "slug": "south-epi-vu05027"
+    },
+    "code": {
+      "id": "VU05027",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU05",
+      "level": 1,
+      "name": {
+        "local": "Shefa",
+        "en": "Shefa",
+        "slug": "shefa-vu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU05",
+        "level": 1,
+        "name": {
+          "local": "Shefa",
+          "en": "Shefa",
+          "slug": "shefa-vu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.787",
+      "lon": "168.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU05032",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Tongariki",
+      "en": "Tongariki",
+      "slug": "tongariki-vu05032"
+    },
+    "code": {
+      "id": "VU05032",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU05",
+      "level": 1,
+      "name": {
+        "local": "Shefa",
+        "en": "Shefa",
+        "slug": "shefa-vu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU05",
+        "level": 1,
+        "name": {
+          "local": "Shefa",
+          "en": "Shefa",
+          "slug": "shefa-vu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.917",
+      "lon": "168.545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU05030",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Varisu",
+      "en": "Varisu",
+      "slug": "varisu-vu05030"
+    },
+    "code": {
+      "id": "VU05030",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU05",
+      "level": 1,
+      "name": {
+        "local": "Shefa",
+        "en": "Shefa",
+        "slug": "shefa-vu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU05",
+        "level": 1,
+        "name": {
+          "local": "Shefa",
+          "en": "Shefa",
+          "slug": "shefa-vu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.675",
+      "lon": "168.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU05029",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Vermali",
+      "en": "Vermali",
+      "slug": "vermali-vu05029"
+    },
+    "code": {
+      "id": "VU05029",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU05",
+      "level": 1,
+      "name": {
+        "local": "Shefa",
+        "en": "Shefa",
+        "slug": "shefa-vu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU05",
+        "level": 1,
+        "name": {
+          "local": "Shefa",
+          "en": "Shefa",
+          "slug": "shefa-vu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.618",
+      "lon": "168.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU05028",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Vermaul",
+      "en": "Vermaul",
+      "slug": "vermaul-vu05028"
+    },
+    "code": {
+      "id": "VU05028",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU05",
+      "level": 1,
+      "name": {
+        "local": "Shefa",
+        "en": "Shefa",
+        "slug": "shefa-vu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU05",
+        "level": 1,
+        "name": {
+          "local": "Shefa",
+          "en": "Shefa",
+          "slug": "shefa-vu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.74",
+      "lon": "168.183"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

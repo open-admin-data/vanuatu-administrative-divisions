@@ -1,0 +1,45 @@
+{
+  "id": "VU03049",
+  "level": 2,
+  "level_name": {
+    "local": "Area Council",
+    "en": "Area Council"
+  },
+  "name": {
+    "local": "South Ambae",
+    "en": "South Ambae",
+    "slug": "south-ambae-vu03049"
+  },
+  "code": {
+    "id": "VU03049",
+    "iso": null
+  },
+  "parent": {
+    "id": "VU03",
+    "level": 1,
+    "name": {
+      "local": "Penama",
+      "en": "Penama",
+      "slug": "penama-vu03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "VU03",
+      "level": 1,
+      "name": {
+        "local": "Penama",
+        "en": "Penama",
+        "slug": "penama-vu03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.42",
+    "lon": "167.856"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "VU06023",
+  "level": 2,
+  "level_name": {
+    "local": "Area Council",
+    "en": "Area Council"
+  },
+  "name": {
+    "local": "South West Tanna",
+    "en": "South West Tanna",
+    "slug": "south-west-tanna-vu06023"
+  },
+  "code": {
+    "id": "VU06023",
+    "iso": null
+  },
+  "parent": {
+    "id": "VU06",
+    "level": 1,
+    "name": {
+      "local": "Tafea",
+      "en": "Tafea",
+      "slug": "tafea-vu06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "VU06",
+      "level": 1,
+      "name": {
+        "local": "Tafea",
+        "en": "Tafea",
+        "slug": "tafea-vu06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.575",
+    "lon": "169.341"
+  },
+  "metadata": {},
+  "source": {}
+}

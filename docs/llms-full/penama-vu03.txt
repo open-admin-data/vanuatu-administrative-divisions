@@ -1,0 +1,59 @@
+# Penama — Vanuatu Administrative Divisions
+
+> 10 area councils
+> Code: VU03
+> Coordinates: -15.376, 167.833
+> Last updated: 2026-06-08. License: CC-BY-4.0.
+
+## Area Councils
+
+### Central Pentecost 1
+
+Code: VU03060, Coordinates: -15.648, 168.157
+
+
+### Central Pentecost 2
+
+Code: VU03018, Coordinates: -15.776, 168.225
+
+
+### East Ambae
+
+Code: VU03051, Coordinates: -15.324, 167.946
+
+
+### North Ambae
+
+Code: VU03050, Coordinates: -15.323, 167.866
+
+
+### North Maewo
+
+Code: VU03014, Coordinates: -15.011, 168.088
+
+
+### North Pentecost
+
+Code: VU03017, Coordinates: -15.542, 168.171
+
+
+### South Ambae
+
+Code: VU03049, Coordinates: -15.42, 167.856
+
+
+### South Maewo
+
+Code: VU03015, Coordinates: -15.259, 168.142
+
+
+### South Pentecost
+
+Code: VU03016, Coordinates: -15.887, 168.225
+
+
+### West Ambae
+
+Code: VU03052, Coordinates: -15.408, 167.75
+
+

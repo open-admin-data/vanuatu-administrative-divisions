@@ -1,0 +1,45 @@
+{
+  "id": "VU06004",
+  "level": 2,
+  "level_name": {
+    "local": "Area Council",
+    "en": "Area Council"
+  },
+  "name": {
+    "local": "Futuna",
+    "en": "Futuna",
+    "slug": "futuna-vu06004"
+  },
+  "code": {
+    "id": "VU06004",
+    "iso": null
+  },
+  "parent": {
+    "id": "VU06",
+    "level": 1,
+    "name": {
+      "local": "Tafea",
+      "en": "Tafea",
+      "slug": "tafea-vu06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "VU06",
+      "level": 1,
+      "name": {
+        "local": "Tafea",
+        "en": "Tafea",
+        "slug": "tafea-vu06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.529",
+    "lon": "170.216"
+  },
+  "metadata": {},
+  "source": {}
+}

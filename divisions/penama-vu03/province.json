@@ -1,0 +1,33 @@
+{
+  "id": "VU03",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Penama",
+    "en": "Penama",
+    "slug": "penama-vu03"
+  },
+  "code": {
+    "id": "VU03",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "area_council": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.376",
+    "lon": "167.833"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/vu/provinces/penama-vu03/",
+    "api": "https://openadmindata.org/api/vu/"
+  }
+}

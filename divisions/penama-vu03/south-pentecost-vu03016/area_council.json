@@ -1,0 +1,45 @@
+{
+  "id": "VU03016",
+  "level": 2,
+  "level_name": {
+    "local": "Area Council",
+    "en": "Area Council"
+  },
+  "name": {
+    "local": "South Pentecost",
+    "en": "South Pentecost",
+    "slug": "south-pentecost-vu03016"
+  },
+  "code": {
+    "id": "VU03016",
+    "iso": null
+  },
+  "parent": {
+    "id": "VU03",
+    "level": 1,
+    "name": {
+      "local": "Penama",
+      "en": "Penama",
+      "slug": "penama-vu03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "VU03",
+      "level": 1,
+      "name": {
+        "local": "Penama",
+        "en": "Penama",
+        "slug": "penama-vu03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.887",
+    "lon": "168.225"
+  },
+  "metadata": {},
+  "source": {}
+}

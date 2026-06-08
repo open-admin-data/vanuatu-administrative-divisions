@@ -1,0 +1,203 @@
+{
+  "_attribution": "Data from Open Admin Data (https://openadmindata.org/vu/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/vanuatu-administrative-divisions",
+  "data": [
+    {
+      "id": "VU01",
+      "level": 1,
+      "level_name": {
+        "local": "Province",
+        "en": "Province"
+      },
+      "name": {
+        "local": "Torba",
+        "en": "Torba",
+        "slug": "torba-vu01"
+      },
+      "code": {
+        "id": "VU01",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "area_council": 7
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "-14.284",
+        "lon": "167.513"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/vu/provinces/torba-vu01/",
+        "api": "https://openadmindata.org/api/vu/"
+      }
+    },
+    {
+      "id": "VU02",
+      "level": 1,
+      "level_name": {
+        "local": "Province",
+        "en": "Province"
+      },
+      "name": {
+        "local": "Sanma",
+        "en": "Sanma",
+        "slug": "sanma-vu02"
+      },
+      "code": {
+        "id": "VU02",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "area_council": 10
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "-15.157",
+        "lon": "167.051"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/vu/provinces/sanma-vu02/",
+        "api": "https://openadmindata.org/api/vu/"
+      }
+    },
+    {
+      "id": "VU03",
+      "level": 1,
+      "level_name": {
+        "local": "Province",
+        "en": "Province"
+      },
+      "name": {
+        "local": "Penama",
+        "en": "Penama",
+        "slug": "penama-vu03"
+      },
+      "code": {
+        "id": "VU03",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "area_council": 10
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "-15.376",
+        "lon": "167.833"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/vu/provinces/penama-vu03/",
+        "api": "https://openadmindata.org/api/vu/"
+      }
+    },
+    {
+      "id": "VU04",
+      "level": 1,
+      "level_name": {
+        "local": "Province",
+        "en": "Province"
+      },
+      "name": {
+        "local": "Malampa",
+        "en": "Malampa",
+        "slug": "malampa-vu04"
+      },
+      "code": {
+        "id": "VU04",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "area_council": 10
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "-16.236",
+        "lon": "168.067"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/vu/provinces/malampa-vu04/",
+        "api": "https://openadmindata.org/api/vu/"
+      }
+    },
+    {
+      "id": "VU05",
+      "level": 1,
+      "level_name": {
+        "local": "Province",
+        "en": "Province"
+      },
+      "name": {
+        "local": "Shefa",
+        "en": "Shefa",
+        "slug": "shefa-vu05"
+      },
+      "code": {
+        "id": "VU05",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "area_council": 18
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "-17.674",
+        "lon": "168.365"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/vu/provinces/shefa-vu05/",
+        "api": "https://openadmindata.org/api/vu/"
+      }
+    },
+    {
+      "id": "VU06",
+      "level": 1,
+      "level_name": {
+        "local": "Province",
+        "en": "Province"
+      },
+      "name": {
+        "local": "Tafea",
+        "en": "Tafea",
+        "slug": "tafea-vu06"
+      },
+      "code": {
+        "id": "VU06",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "area_council": 11
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "-18.809",
+        "lon": "169.111"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/vu/provinces/tafea-vu06/",
+        "api": "https://openadmindata.org/api/vu/"
+      }
+    }
+  ]
+}

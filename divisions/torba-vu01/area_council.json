@@ -1,0 +1,317 @@
+[
+  {
+    "id": "VU01053",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Gaua",
+      "en": "Gaua",
+      "slug": "gaua-vu01053"
+    },
+    "code": {
+      "id": "VU01053",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU01",
+      "level": 1,
+      "name": {
+        "local": "Torba",
+        "en": "Torba",
+        "slug": "torba-vu01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU01",
+        "level": 1,
+        "name": {
+          "local": "Torba",
+          "en": "Torba",
+          "slug": "torba-vu01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.284",
+      "lon": "167.513"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU01065",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Merelava",
+      "en": "Merelava",
+      "slug": "merelava-vu01065"
+    },
+    "code": {
+      "id": "VU01065",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU01",
+      "level": 1,
+      "name": {
+        "local": "Torba",
+        "en": "Torba",
+        "slug": "torba-vu01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU01",
+        "level": 1,
+        "name": {
+          "local": "Torba",
+          "en": "Torba",
+          "slug": "torba-vu01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.46",
+      "lon": "168.042"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU01064",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Mota",
+      "en": "Mota",
+      "slug": "mota-vu01064"
+    },
+    "code": {
+      "id": "VU01064",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU01",
+      "level": 1,
+      "name": {
+        "local": "Torba",
+        "en": "Torba",
+        "slug": "torba-vu01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU01",
+        "level": 1,
+        "name": {
+          "local": "Torba",
+          "en": "Torba",
+          "slug": "torba-vu01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.846",
+      "lon": "167.694"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU01063",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Motalava",
+      "en": "Motalava",
+      "slug": "motalava-vu01063"
+    },
+    "code": {
+      "id": "VU01063",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU01",
+      "level": 1,
+      "name": {
+        "local": "Torba",
+        "en": "Torba",
+        "slug": "torba-vu01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU01",
+        "level": 1,
+        "name": {
+          "local": "Torba",
+          "en": "Torba",
+          "slug": "torba-vu01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.679",
+      "lon": "167.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU01055",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Torres",
+      "en": "Torres",
+      "slug": "torres-vu01055"
+    },
+    "code": {
+      "id": "VU01055",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU01",
+      "level": 1,
+      "name": {
+        "local": "Torba",
+        "en": "Torba",
+        "slug": "torba-vu01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU01",
+        "level": 1,
+        "name": {
+          "local": "Torba",
+          "en": "Torba",
+          "slug": "torba-vu01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.246",
+      "lon": "166.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU01066",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Ureparapara",
+      "en": "Ureparapara",
+      "slug": "ureparapara-vu01066"
+    },
+    "code": {
+      "id": "VU01066",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU01",
+      "level": 1,
+      "name": {
+        "local": "Torba",
+        "en": "Torba",
+        "slug": "torba-vu01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU01",
+        "level": 1,
+        "name": {
+          "local": "Torba",
+          "en": "Torba",
+          "slug": "torba-vu01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.537",
+      "lon": "167.312"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU01054",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Vanua Lava",
+      "en": "Vanua Lava",
+      "slug": "vanua-lava-vu01054"
+    },
+    "code": {
+      "id": "VU01054",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU01",
+      "level": 1,
+      "name": {
+        "local": "Torba",
+        "en": "Torba",
+        "slug": "torba-vu01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU01",
+        "level": 1,
+        "name": {
+          "local": "Torba",
+          "en": "Torba",
+          "slug": "torba-vu01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.839",
+      "lon": "167.46"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

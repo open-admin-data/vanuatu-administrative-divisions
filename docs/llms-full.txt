@@ -1,0 +1,23 @@
+# Vanuatu Administrative Divisions — Full Reference
+
+> Last updated: 2026-06-08. License: CC-BY-4.0.
+
+## Per-Province Data Files
+
+- [Malampa](https://github.com/open-admin-data/vanuatu-administrative-divisions/blob/main/docs/llms-full/malampa-vu04.txt) — 10 area councils
+- [Penama](https://github.com/open-admin-data/vanuatu-administrative-divisions/blob/main/docs/llms-full/penama-vu03.txt) — 10 area councils
+- [Sanma](https://github.com/open-admin-data/vanuatu-administrative-divisions/blob/main/docs/llms-full/sanma-vu02.txt) — 10 area councils
+- [Shefa](https://github.com/open-admin-data/vanuatu-administrative-divisions/blob/main/docs/llms-full/shefa-vu05.txt) — 18 area councils
+- [Tafea](https://github.com/open-admin-data/vanuatu-administrative-divisions/blob/main/docs/llms-full/tafea-vu06.txt) — 11 area councils
+- [Torba](https://github.com/open-admin-data/vanuatu-administrative-divisions/blob/main/docs/llms-full/torba-vu01.txt) — 7 area councils
+
+## Summary
+
+| Province | Area Councils | 
+|---|---|
+| Malampa | 10 | 
+| Penama | 10 | 
+| Sanma | 10 | 
+| Shefa | 18 | 
+| Tafea | 11 | 
+| Torba | 7 | 

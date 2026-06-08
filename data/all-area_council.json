@@ -1,0 +1,2972 @@
+[
+  {
+    "id": "VU06021",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Aneityum",
+      "en": "Aneityum",
+      "slug": "aneityum-vu06021"
+    },
+    "code": {
+      "id": "VU06021",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU06",
+      "level": 1,
+      "name": {
+        "local": "Tafea",
+        "en": "Tafea",
+        "slug": "tafea-vu06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU06",
+        "level": 1,
+        "name": {
+          "local": "Tafea",
+          "en": "Tafea",
+          "slug": "tafea-vu06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.194",
+      "lon": "169.826"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU06005",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Aniwa",
+      "en": "Aniwa",
+      "slug": "aniwa-vu06005"
+    },
+    "code": {
+      "id": "VU06005",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU06",
+      "level": 1,
+      "name": {
+        "local": "Tafea",
+        "en": "Tafea",
+        "slug": "tafea-vu06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU06",
+        "level": 1,
+        "name": {
+          "local": "Tafea",
+          "en": "Tafea",
+          "slug": "tafea-vu06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.244",
+      "lon": "169.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU02061",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Canal - Fanafo",
+      "en": "Canal - Fanafo",
+      "slug": "canal-fanafo-vu02061"
+    },
+    "code": {
+      "id": "VU02061",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU02",
+      "level": 1,
+      "name": {
+        "local": "Sanma",
+        "en": "Sanma",
+        "slug": "sanma-vu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU02",
+        "level": 1,
+        "name": {
+          "local": "Sanma",
+          "en": "Sanma",
+          "slug": "sanma-vu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.496",
+      "lon": "167.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU04008",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Central Malekula",
+      "en": "Central Malekula",
+      "slug": "central-malekula-vu04008"
+    },
+    "code": {
+      "id": "VU04008",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU04",
+      "level": 1,
+      "name": {
+        "local": "Malampa",
+        "en": "Malampa",
+        "slug": "malampa-vu04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU04",
+        "level": 1,
+        "name": {
+          "local": "Malampa",
+          "en": "Malampa",
+          "slug": "malampa-vu04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.165",
+      "lon": "167.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU03060",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Central Pentecost 1",
+      "en": "Central Pentecost 1",
+      "slug": "central-pentecost-1-vu03060"
+    },
+    "code": {
+      "id": "VU03060",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU03",
+      "level": 1,
+      "name": {
+        "local": "Penama",
+        "en": "Penama",
+        "slug": "penama-vu03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU03",
+        "level": 1,
+        "name": {
+          "local": "Penama",
+          "en": "Penama",
+          "slug": "penama-vu03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.648",
+      "lon": "168.157"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU03018",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Central Pentecost 2",
+      "en": "Central Pentecost 2",
+      "slug": "central-pentecost-2-vu03018"
+    },
+    "code": {
+      "id": "VU03018",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU03",
+      "level": 1,
+      "name": {
+        "local": "Penama",
+        "en": "Penama",
+        "slug": "penama-vu03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU03",
+        "level": 1,
+        "name": {
+          "local": "Penama",
+          "en": "Penama",
+          "slug": "penama-vu03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.776",
+      "lon": "168.225"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU03051",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "East Ambae",
+      "en": "East Ambae",
+      "slug": "east-ambae-vu03051"
+    },
+    "code": {
+      "id": "VU03051",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU03",
+      "level": 1,
+      "name": {
+        "local": "Penama",
+        "en": "Penama",
+        "slug": "penama-vu03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU03",
+        "level": 1,
+        "name": {
+          "local": "Penama",
+          "en": "Penama",
+          "slug": "penama-vu03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.324",
+      "lon": "167.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU02042",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "East Malo",
+      "en": "East Malo",
+      "slug": "east-malo-vu02042"
+    },
+    "code": {
+      "id": "VU02042",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU02",
+      "level": 1,
+      "name": {
+        "local": "Sanma",
+        "en": "Sanma",
+        "slug": "sanma-vu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU02",
+        "level": 1,
+        "name": {
+          "local": "Sanma",
+          "en": "Sanma",
+          "slug": "sanma-vu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.69",
+      "lon": "167.188"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU02056",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "East Santo",
+      "en": "East Santo",
+      "slug": "east-santo-vu02056"
+    },
+    "code": {
+      "id": "VU02056",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU02",
+      "level": 1,
+      "name": {
+        "local": "Sanma",
+        "en": "Sanma",
+        "slug": "sanma-vu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU02",
+        "level": 1,
+        "name": {
+          "local": "Sanma",
+          "en": "Sanma",
+          "slug": "sanma-vu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.142",
+      "lon": "167.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU05034",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Emau",
+      "en": "Emau",
+      "slug": "emau-vu05034"
+    },
+    "code": {
+      "id": "VU05034",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU05",
+      "level": 1,
+      "name": {
+        "local": "Shefa",
+        "en": "Shefa",
+        "slug": "shefa-vu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU05",
+        "level": 1,
+        "name": {
+          "local": "Shefa",
+          "en": "Shefa",
+          "slug": "shefa-vu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.482",
+      "lon": "168.489"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU05040",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Erakor",
+      "en": "Erakor",
+      "slug": "erakor-vu05040"
+    },
+    "code": {
+      "id": "VU05040",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU05",
+      "level": 1,
+      "name": {
+        "local": "Shefa",
+        "en": "Shefa",
+        "slug": "shefa-vu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU05",
+        "level": 1,
+        "name": {
+          "local": "Shefa",
+          "en": "Shefa",
+          "slug": "shefa-vu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.691",
+      "lon": "168.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU05003",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Eratap",
+      "en": "Eratap",
+      "slug": "eratap-vu05003"
+    },
+    "code": {
+      "id": "VU05003",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU05",
+      "level": 1,
+      "name": {
+        "local": "Shefa",
+        "en": "Shefa",
+        "slug": "shefa-vu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU05",
+        "level": 1,
+        "name": {
+          "local": "Shefa",
+          "en": "Shefa",
+          "slug": "shefa-vu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.772",
+      "lon": "168.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU05037",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Eton",
+      "en": "Eton",
+      "slug": "eton-vu05037"
+    },
+    "code": {
+      "id": "VU05037",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU05",
+      "level": 1,
+      "name": {
+        "local": "Shefa",
+        "en": "Shefa",
+        "slug": "shefa-vu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU05",
+        "level": 1,
+        "name": {
+          "local": "Shefa",
+          "en": "Shefa",
+          "slug": "shefa-vu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.706",
+      "lon": "168.502"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU06004",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Futuna",
+      "en": "Futuna",
+      "slug": "futuna-vu06004"
+    },
+    "code": {
+      "id": "VU06004",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU06",
+      "level": 1,
+      "name": {
+        "local": "Tafea",
+        "en": "Tafea",
+        "slug": "tafea-vu06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU06",
+        "level": 1,
+        "name": {
+          "local": "Tafea",
+          "en": "Tafea",
+          "slug": "tafea-vu06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.529",
+      "lon": "170.216"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU01053",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Gaua",
+      "en": "Gaua",
+      "slug": "gaua-vu01053"
+    },
+    "code": {
+      "id": "VU01053",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU01",
+      "level": 1,
+      "name": {
+        "local": "Torba",
+        "en": "Torba",
+        "slug": "torba-vu01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU01",
+        "level": 1,
+        "name": {
+          "local": "Torba",
+          "en": "Torba",
+          "slug": "torba-vu01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.284",
+      "lon": "167.513"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU05039",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Ifira",
+      "en": "Ifira",
+      "slug": "ifira-vu05039"
+    },
+    "code": {
+      "id": "VU05039",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU05",
+      "level": 1,
+      "name": {
+        "local": "Shefa",
+        "en": "Shefa",
+        "slug": "shefa-vu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU05",
+        "level": 1,
+        "name": {
+          "local": "Shefa",
+          "en": "Shefa",
+          "slug": "shefa-vu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.757",
+      "lon": "168.293"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU02001",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Luganville",
+      "en": "Luganville",
+      "slug": "luganville-vu02001"
+    },
+    "code": {
+      "id": "VU02001",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU02",
+      "level": 1,
+      "name": {
+        "local": "Sanma",
+        "en": "Sanma",
+        "slug": "sanma-vu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU02",
+        "level": 1,
+        "name": {
+          "local": "Sanma",
+          "en": "Sanma",
+          "slug": "sanma-vu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.501",
+      "lon": "167.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU05033",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Makimae",
+      "en": "Makimae",
+      "slug": "makimae-vu05033"
+    },
+    "code": {
+      "id": "VU05033",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU05",
+      "level": 1,
+      "name": {
+        "local": "Shefa",
+        "en": "Shefa",
+        "slug": "shefa-vu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU05",
+        "level": 1,
+        "name": {
+          "local": "Shefa",
+          "en": "Shefa",
+          "slug": "shefa-vu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.066",
+      "lon": "168.373"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU05041",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Malorua",
+      "en": "Malorua",
+      "slug": "malorua-vu05041"
+    },
+    "code": {
+      "id": "VU05041",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU05",
+      "level": 1,
+      "name": {
+        "local": "Shefa",
+        "en": "Shefa",
+        "slug": "shefa-vu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU05",
+        "level": 1,
+        "name": {
+          "local": "Shefa",
+          "en": "Shefa",
+          "slug": "shefa-vu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.633",
+      "lon": "168.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU05057",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Mele",
+      "en": "Mele",
+      "slug": "mele-vu05057"
+    },
+    "code": {
+      "id": "VU05057",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU05",
+      "level": 1,
+      "name": {
+        "local": "Shefa",
+        "en": "Shefa",
+        "slug": "shefa-vu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU05",
+        "level": 1,
+        "name": {
+          "local": "Shefa",
+          "en": "Shefa",
+          "slug": "shefa-vu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.649",
+      "lon": "168.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU01065",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Merelava",
+      "en": "Merelava",
+      "slug": "merelava-vu01065"
+    },
+    "code": {
+      "id": "VU01065",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU01",
+      "level": 1,
+      "name": {
+        "local": "Torba",
+        "en": "Torba",
+        "slug": "torba-vu01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU01",
+        "level": 1,
+        "name": {
+          "local": "Torba",
+          "en": "Torba",
+          "slug": "torba-vu01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.46",
+      "lon": "168.042"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU06062",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Middle Bush Tanna",
+      "en": "Middle Bush Tanna",
+      "slug": "middle-bush-tanna-vu06062"
+    },
+    "code": {
+      "id": "VU06062",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU06",
+      "level": 1,
+      "name": {
+        "local": "Tafea",
+        "en": "Tafea",
+        "slug": "tafea-vu06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU06",
+        "level": 1,
+        "name": {
+          "local": "Tafea",
+          "en": "Tafea",
+          "slug": "tafea-vu06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.465",
+      "lon": "169.316"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU01064",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Mota",
+      "en": "Mota",
+      "slug": "mota-vu01064"
+    },
+    "code": {
+      "id": "VU01064",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU01",
+      "level": 1,
+      "name": {
+        "local": "Torba",
+        "en": "Torba",
+        "slug": "torba-vu01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU01",
+        "level": 1,
+        "name": {
+          "local": "Torba",
+          "en": "Torba",
+          "slug": "torba-vu01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.846",
+      "lon": "167.694"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU01063",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Motalava",
+      "en": "Motalava",
+      "slug": "motalava-vu01063"
+    },
+    "code": {
+      "id": "VU01063",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU01",
+      "level": 1,
+      "name": {
+        "local": "Torba",
+        "en": "Torba",
+        "slug": "torba-vu01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU01",
+        "level": 1,
+        "name": {
+          "local": "Torba",
+          "en": "Torba",
+          "slug": "torba-vu01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.679",
+      "lon": "167.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU05036",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Nguna",
+      "en": "Nguna",
+      "slug": "nguna-vu05036"
+    },
+    "code": {
+      "id": "VU05036",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU05",
+      "level": 1,
+      "name": {
+        "local": "Shefa",
+        "en": "Shefa",
+        "slug": "shefa-vu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU05",
+        "level": 1,
+        "name": {
+          "local": "Shefa",
+          "en": "Shefa",
+          "slug": "shefa-vu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.448",
+      "lon": "168.351"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU03050",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "North Ambae",
+      "en": "North Ambae",
+      "slug": "north-ambae-vu03050"
+    },
+    "code": {
+      "id": "VU03050",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU03",
+      "level": 1,
+      "name": {
+        "local": "Penama",
+        "en": "Penama",
+        "slug": "penama-vu03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU03",
+        "level": 1,
+        "name": {
+          "local": "Penama",
+          "en": "Penama",
+          "slug": "penama-vu03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.323",
+      "lon": "167.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU04011",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "North Ambrym",
+      "en": "North Ambrym",
+      "slug": "north-ambrym-vu04011"
+    },
+    "code": {
+      "id": "VU04011",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU04",
+      "level": 1,
+      "name": {
+        "local": "Malampa",
+        "en": "Malampa",
+        "slug": "malampa-vu04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU04",
+        "level": 1,
+        "name": {
+          "local": "Malampa",
+          "en": "Malampa",
+          "slug": "malampa-vu04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.178",
+      "lon": "168.143"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU04007",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "North East Malekula",
+      "en": "North East Malekula",
+      "slug": "north-east-malekula-vu04007"
+    },
+    "code": {
+      "id": "VU04007",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU04",
+      "level": 1,
+      "name": {
+        "local": "Malampa",
+        "en": "Malampa",
+        "slug": "malampa-vu04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU04",
+        "level": 1,
+        "name": {
+          "local": "Malampa",
+          "en": "Malampa",
+          "slug": "malampa-vu04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.963",
+      "lon": "167.294"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU05035",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "North Efate",
+      "en": "North Efate",
+      "slug": "north-efate-vu05035"
+    },
+    "code": {
+      "id": "VU05035",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU05",
+      "level": 1,
+      "name": {
+        "local": "Shefa",
+        "en": "Shefa",
+        "slug": "shefa-vu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU05",
+        "level": 1,
+        "name": {
+          "local": "Shefa",
+          "en": "Shefa",
+          "slug": "shefa-vu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.573",
+      "lon": "168.428"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU06019",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "North Erromango",
+      "en": "North Erromango",
+      "slug": "north-erromango-vu06019"
+    },
+    "code": {
+      "id": "VU06019",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU06",
+      "level": 1,
+      "name": {
+        "local": "Tafea",
+        "en": "Tafea",
+        "slug": "tafea-vu06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU06",
+        "level": 1,
+        "name": {
+          "local": "Tafea",
+          "en": "Tafea",
+          "slug": "tafea-vu06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.762",
+      "lon": "169.132"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU03014",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "North Maewo",
+      "en": "North Maewo",
+      "slug": "north-maewo-vu03014"
+    },
+    "code": {
+      "id": "VU03014",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU03",
+      "level": 1,
+      "name": {
+        "local": "Penama",
+        "en": "Penama",
+        "slug": "penama-vu03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU03",
+        "level": 1,
+        "name": {
+          "local": "Penama",
+          "en": "Penama",
+          "slug": "penama-vu03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.011",
+      "lon": "168.088"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU03017",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "North Pentecost",
+      "en": "North Pentecost",
+      "slug": "north-pentecost-vu03017"
+    },
+    "code": {
+      "id": "VU03017",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU03",
+      "level": 1,
+      "name": {
+        "local": "Penama",
+        "en": "Penama",
+        "slug": "penama-vu03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU03",
+        "level": 1,
+        "name": {
+          "local": "Penama",
+          "en": "Penama",
+          "slug": "penama-vu03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.542",
+      "lon": "168.171"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU02047",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "North Santo",
+      "en": "North Santo",
+      "slug": "north-santo-vu02047"
+    },
+    "code": {
+      "id": "VU02047",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU02",
+      "level": 1,
+      "name": {
+        "local": "Sanma",
+        "en": "Sanma",
+        "slug": "sanma-vu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU02",
+        "level": 1,
+        "name": {
+          "local": "Sanma",
+          "en": "Sanma",
+          "slug": "sanma-vu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.037",
+      "lon": "166.748"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU06026",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "North Tanna",
+      "en": "North Tanna",
+      "slug": "north-tanna-vu06026"
+    },
+    "code": {
+      "id": "VU06026",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU06",
+      "level": 1,
+      "name": {
+        "local": "Tafea",
+        "en": "Tafea",
+        "slug": "tafea-vu06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU06",
+        "level": 1,
+        "name": {
+          "local": "Tafea",
+          "en": "Tafea",
+          "slug": "tafea-vu06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.371",
+      "lon": "169.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU05031",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "North Tongoa",
+      "en": "North Tongoa",
+      "slug": "north-tongoa-vu05031"
+    },
+    "code": {
+      "id": "VU05031",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU05",
+      "level": 1,
+      "name": {
+        "local": "Shefa",
+        "en": "Shefa",
+        "slug": "shefa-vu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU05",
+        "level": 1,
+        "name": {
+          "local": "Shefa",
+          "en": "Shefa",
+          "slug": "shefa-vu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.896",
+      "lon": "168.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU04006",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "North West Malekula",
+      "en": "North West Malekula",
+      "slug": "north-west-malekula-vu04006"
+    },
+    "code": {
+      "id": "VU04006",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU04",
+      "level": 1,
+      "name": {
+        "local": "Malampa",
+        "en": "Malampa",
+        "slug": "malampa-vu04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU04",
+        "level": 1,
+        "name": {
+          "local": "Malampa",
+          "en": "Malampa",
+          "slug": "malampa-vu04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.022",
+      "lon": "167.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU02044",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "North West Santo",
+      "en": "North West Santo",
+      "slug": "north-west-santo-vu02044"
+    },
+    "code": {
+      "id": "VU02044",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU02",
+      "level": 1,
+      "name": {
+        "local": "Sanma",
+        "en": "Sanma",
+        "slug": "sanma-vu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU02",
+        "level": 1,
+        "name": {
+          "local": "Sanma",
+          "en": "Sanma",
+          "slug": "sanma-vu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.862",
+      "lon": "166.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU04013",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Paama",
+      "en": "Paama",
+      "slug": "paama-vu04013"
+    },
+    "code": {
+      "id": "VU04013",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU04",
+      "level": 1,
+      "name": {
+        "local": "Malampa",
+        "en": "Malampa",
+        "slug": "malampa-vu04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU04",
+        "level": 1,
+        "name": {
+          "local": "Malampa",
+          "en": "Malampa",
+          "slug": "malampa-vu04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.508",
+      "lon": "168.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU05038",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Pango",
+      "en": "Pango",
+      "slug": "pango-vu05038"
+    },
+    "code": {
+      "id": "VU05038",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU05",
+      "level": 1,
+      "name": {
+        "local": "Shefa",
+        "en": "Shefa",
+        "slug": "shefa-vu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU05",
+        "level": 1,
+        "name": {
+          "local": "Shefa",
+          "en": "Shefa",
+          "slug": "shefa-vu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.771",
+      "lon": "168.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU05002",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Port Vila",
+      "en": "Port Vila",
+      "slug": "port-vila-vu05002"
+    },
+    "code": {
+      "id": "VU05002",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU05",
+      "level": 1,
+      "name": {
+        "local": "Shefa",
+        "en": "Shefa",
+        "slug": "shefa-vu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU05",
+        "level": 1,
+        "name": {
+          "local": "Shefa",
+          "en": "Shefa",
+          "slug": "shefa-vu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.732",
+      "lon": "168.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU03049",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "South Ambae",
+      "en": "South Ambae",
+      "slug": "south-ambae-vu03049"
+    },
+    "code": {
+      "id": "VU03049",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU03",
+      "level": 1,
+      "name": {
+        "local": "Penama",
+        "en": "Penama",
+        "slug": "penama-vu03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU03",
+        "level": 1,
+        "name": {
+          "local": "Penama",
+          "en": "Penama",
+          "slug": "penama-vu03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.42",
+      "lon": "167.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU04012",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "South East Ambrym",
+      "en": "South East Ambrym",
+      "slug": "south-east-ambrym-vu04012"
+    },
+    "code": {
+      "id": "VU04012",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU04",
+      "level": 1,
+      "name": {
+        "local": "Malampa",
+        "en": "Malampa",
+        "slug": "malampa-vu04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU04",
+        "level": 1,
+        "name": {
+          "local": "Malampa",
+          "en": "Malampa",
+          "slug": "malampa-vu04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.303",
+      "lon": "168.225"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU04009",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "South East Malekula",
+      "en": "South East Malekula",
+      "slug": "south-east-malekula-vu04009"
+    },
+    "code": {
+      "id": "VU04009",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU04",
+      "level": 1,
+      "name": {
+        "local": "Malampa",
+        "en": "Malampa",
+        "slug": "malampa-vu04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU04",
+        "level": 1,
+        "name": {
+          "local": "Malampa",
+          "en": "Malampa",
+          "slug": "malampa-vu04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.314",
+      "lon": "167.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU02046",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "South East Santo",
+      "en": "South East Santo",
+      "slug": "south-east-santo-vu02046"
+    },
+    "code": {
+      "id": "VU02046",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU02",
+      "level": 1,
+      "name": {
+        "local": "Sanma",
+        "en": "Sanma",
+        "slug": "sanma-vu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU02",
+        "level": 1,
+        "name": {
+          "local": "Sanma",
+          "en": "Sanma",
+          "slug": "sanma-vu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.404",
+      "lon": "167.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU05027",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "South Epi",
+      "en": "South Epi",
+      "slug": "south-epi-vu05027"
+    },
+    "code": {
+      "id": "VU05027",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU05",
+      "level": 1,
+      "name": {
+        "local": "Shefa",
+        "en": "Shefa",
+        "slug": "shefa-vu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU05",
+        "level": 1,
+        "name": {
+          "local": "Shefa",
+          "en": "Shefa",
+          "slug": "shefa-vu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.787",
+      "lon": "168.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU06020",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "South Erromango",
+      "en": "South Erromango",
+      "slug": "south-erromango-vu06020"
+    },
+    "code": {
+      "id": "VU06020",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU06",
+      "level": 1,
+      "name": {
+        "local": "Tafea",
+        "en": "Tafea",
+        "slug": "tafea-vu06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU06",
+        "level": 1,
+        "name": {
+          "local": "Tafea",
+          "en": "Tafea",
+          "slug": "tafea-vu06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.905",
+      "lon": "169.198"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU03015",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "South Maewo",
+      "en": "South Maewo",
+      "slug": "south-maewo-vu03015"
+    },
+    "code": {
+      "id": "VU03015",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU03",
+      "level": 1,
+      "name": {
+        "local": "Penama",
+        "en": "Penama",
+        "slug": "penama-vu03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU03",
+        "level": 1,
+        "name": {
+          "local": "Penama",
+          "en": "Penama",
+          "slug": "penama-vu03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.259",
+      "lon": "168.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU04058",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "South Malekula",
+      "en": "South Malekula",
+      "slug": "south-malekula-vu04058"
+    },
+    "code": {
+      "id": "VU04058",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU04",
+      "level": 1,
+      "name": {
+        "local": "Malampa",
+        "en": "Malampa",
+        "slug": "malampa-vu04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU04",
+        "level": 1,
+        "name": {
+          "local": "Malampa",
+          "en": "Malampa",
+          "slug": "malampa-vu04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.471",
+      "lon": "167.702"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU03016",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "South Pentecost",
+      "en": "South Pentecost",
+      "slug": "south-pentecost-vu03016"
+    },
+    "code": {
+      "id": "VU03016",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU03",
+      "level": 1,
+      "name": {
+        "local": "Penama",
+        "en": "Penama",
+        "slug": "penama-vu03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU03",
+        "level": 1,
+        "name": {
+          "local": "Penama",
+          "en": "Penama",
+          "slug": "penama-vu03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.887",
+      "lon": "168.225"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU02045",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "South Santo",
+      "en": "South Santo",
+      "slug": "south-santo-vu02045"
+    },
+    "code": {
+      "id": "VU02045",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU02",
+      "level": 1,
+      "name": {
+        "local": "Sanma",
+        "en": "Sanma",
+        "slug": "sanma-vu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU02",
+        "level": 1,
+        "name": {
+          "local": "Sanma",
+          "en": "Sanma",
+          "slug": "sanma-vu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.558",
+      "lon": "166.903"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU06022",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "South Tanna",
+      "en": "South Tanna",
+      "slug": "south-tanna-vu06022"
+    },
+    "code": {
+      "id": "VU06022",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU06",
+      "level": 1,
+      "name": {
+        "local": "Tafea",
+        "en": "Tafea",
+        "slug": "tafea-vu06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU06",
+        "level": 1,
+        "name": {
+          "local": "Tafea",
+          "en": "Tafea",
+          "slug": "tafea-vu06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.612",
+      "lon": "169.448"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU04059",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "South West Malekula",
+      "en": "South West Malekula",
+      "slug": "south-west-malekula-vu04059"
+    },
+    "code": {
+      "id": "VU04059",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU04",
+      "level": 1,
+      "name": {
+        "local": "Malampa",
+        "en": "Malampa",
+        "slug": "malampa-vu04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU04",
+        "level": 1,
+        "name": {
+          "local": "Malampa",
+          "en": "Malampa",
+          "slug": "malampa-vu04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.422",
+      "lon": "167.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU06023",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "South West Tanna",
+      "en": "South West Tanna",
+      "slug": "south-west-tanna-vu06023"
+    },
+    "code": {
+      "id": "VU06023",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU06",
+      "level": 1,
+      "name": {
+        "local": "Tafea",
+        "en": "Tafea",
+        "slug": "tafea-vu06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU06",
+        "level": 1,
+        "name": {
+          "local": "Tafea",
+          "en": "Tafea",
+          "slug": "tafea-vu06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.575",
+      "lon": "169.341"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU05032",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Tongariki",
+      "en": "Tongariki",
+      "slug": "tongariki-vu05032"
+    },
+    "code": {
+      "id": "VU05032",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU05",
+      "level": 1,
+      "name": {
+        "local": "Shefa",
+        "en": "Shefa",
+        "slug": "shefa-vu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU05",
+        "level": 1,
+        "name": {
+          "local": "Shefa",
+          "en": "Shefa",
+          "slug": "shefa-vu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.917",
+      "lon": "168.545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU01055",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Torres",
+      "en": "Torres",
+      "slug": "torres-vu01055"
+    },
+    "code": {
+      "id": "VU01055",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU01",
+      "level": 1,
+      "name": {
+        "local": "Torba",
+        "en": "Torba",
+        "slug": "torba-vu01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU01",
+        "level": 1,
+        "name": {
+          "local": "Torba",
+          "en": "Torba",
+          "slug": "torba-vu01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.246",
+      "lon": "166.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU01066",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Ureparapara",
+      "en": "Ureparapara",
+      "slug": "ureparapara-vu01066"
+    },
+    "code": {
+      "id": "VU01066",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU01",
+      "level": 1,
+      "name": {
+        "local": "Torba",
+        "en": "Torba",
+        "slug": "torba-vu01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU01",
+        "level": 1,
+        "name": {
+          "local": "Torba",
+          "en": "Torba",
+          "slug": "torba-vu01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.537",
+      "lon": "167.312"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU01054",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Vanua Lava",
+      "en": "Vanua Lava",
+      "slug": "vanua-lava-vu01054"
+    },
+    "code": {
+      "id": "VU01054",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU01",
+      "level": 1,
+      "name": {
+        "local": "Torba",
+        "en": "Torba",
+        "slug": "torba-vu01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU01",
+        "level": 1,
+        "name": {
+          "local": "Torba",
+          "en": "Torba",
+          "slug": "torba-vu01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.839",
+      "lon": "167.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU05030",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Varisu",
+      "en": "Varisu",
+      "slug": "varisu-vu05030"
+    },
+    "code": {
+      "id": "VU05030",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU05",
+      "level": 1,
+      "name": {
+        "local": "Shefa",
+        "en": "Shefa",
+        "slug": "shefa-vu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU05",
+        "level": 1,
+        "name": {
+          "local": "Shefa",
+          "en": "Shefa",
+          "slug": "shefa-vu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.675",
+      "lon": "168.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU05029",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Vermali",
+      "en": "Vermali",
+      "slug": "vermali-vu05029"
+    },
+    "code": {
+      "id": "VU05029",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU05",
+      "level": 1,
+      "name": {
+        "local": "Shefa",
+        "en": "Shefa",
+        "slug": "shefa-vu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU05",
+        "level": 1,
+        "name": {
+          "local": "Shefa",
+          "en": "Shefa",
+          "slug": "shefa-vu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.618",
+      "lon": "168.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU05028",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Vermaul",
+      "en": "Vermaul",
+      "slug": "vermaul-vu05028"
+    },
+    "code": {
+      "id": "VU05028",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU05",
+      "level": 1,
+      "name": {
+        "local": "Shefa",
+        "en": "Shefa",
+        "slug": "shefa-vu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU05",
+        "level": 1,
+        "name": {
+          "local": "Shefa",
+          "en": "Shefa",
+          "slug": "shefa-vu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.74",
+      "lon": "168.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU03052",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "West Ambae",
+      "en": "West Ambae",
+      "slug": "west-ambae-vu03052"
+    },
+    "code": {
+      "id": "VU03052",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU03",
+      "level": 1,
+      "name": {
+        "local": "Penama",
+        "en": "Penama",
+        "slug": "penama-vu03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU03",
+        "level": 1,
+        "name": {
+          "local": "Penama",
+          "en": "Penama",
+          "slug": "penama-vu03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.408",
+      "lon": "167.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU04010",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "West Ambrym",
+      "en": "West Ambrym",
+      "slug": "west-ambrym-vu04010"
+    },
+    "code": {
+      "id": "VU04010",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU04",
+      "level": 1,
+      "name": {
+        "local": "Malampa",
+        "en": "Malampa",
+        "slug": "malampa-vu04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU04",
+        "level": 1,
+        "name": {
+          "local": "Malampa",
+          "en": "Malampa",
+          "slug": "malampa-vu04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.285",
+      "lon": "168.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU02043",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "West Malo",
+      "en": "West Malo",
+      "slug": "west-malo-vu02043"
+    },
+    "code": {
+      "id": "VU02043",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU02",
+      "level": 1,
+      "name": {
+        "local": "Sanma",
+        "en": "Sanma",
+        "slug": "sanma-vu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU02",
+        "level": 1,
+        "name": {
+          "local": "Sanma",
+          "en": "Sanma",
+          "slug": "sanma-vu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.678",
+      "lon": "167.109"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU02048",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "West Santo",
+      "en": "West Santo",
+      "slug": "west-santo-vu02048"
+    },
+    "code": {
+      "id": "VU02048",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU02",
+      "level": 1,
+      "name": {
+        "local": "Sanma",
+        "en": "Sanma",
+        "slug": "sanma-vu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU02",
+        "level": 1,
+        "name": {
+          "local": "Sanma",
+          "en": "Sanma",
+          "slug": "sanma-vu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.308",
+      "lon": "166.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU06025",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "West Tanna",
+      "en": "West Tanna",
+      "slug": "west-tanna-vu06025"
+    },
+    "code": {
+      "id": "VU06025",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU06",
+      "level": 1,
+      "name": {
+        "local": "Tafea",
+        "en": "Tafea",
+        "slug": "tafea-vu06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU06",
+        "level": 1,
+        "name": {
+          "local": "Tafea",
+          "en": "Tafea",
+          "slug": "tafea-vu06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.471",
+      "lon": "169.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU06024",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Whitesands",
+      "en": "Whitesands",
+      "slug": "whitesands-vu06024"
+    },
+    "code": {
+      "id": "VU06024",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU06",
+      "level": 1,
+      "name": {
+        "local": "Tafea",
+        "en": "Tafea",
+        "slug": "tafea-vu06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU06",
+        "level": 1,
+        "name": {
+          "local": "Tafea",
+          "en": "Tafea",
+          "slug": "tafea-vu06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.517",
+      "lon": "169.427"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

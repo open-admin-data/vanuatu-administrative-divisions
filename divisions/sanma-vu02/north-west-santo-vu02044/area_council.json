@@ -1,0 +1,45 @@
+{
+  "id": "VU02044",
+  "level": 2,
+  "level_name": {
+    "local": "Area Council",
+    "en": "Area Council"
+  },
+  "name": {
+    "local": "North West Santo",
+    "en": "North West Santo",
+    "slug": "north-west-santo-vu02044"
+  },
+  "code": {
+    "id": "VU02044",
+    "iso": null
+  },
+  "parent": {
+    "id": "VU02",
+    "level": 1,
+    "name": {
+      "local": "Sanma",
+      "en": "Sanma",
+      "slug": "sanma-vu02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "VU02",
+      "level": 1,
+      "name": {
+        "local": "Sanma",
+        "en": "Sanma",
+        "slug": "sanma-vu02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.862",
+    "lon": "166.612"
+  },
+  "metadata": {},
+  "source": {}
+}

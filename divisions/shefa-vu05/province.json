@@ -1,0 +1,33 @@
+{
+  "id": "VU05",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Shefa",
+    "en": "Shefa",
+    "slug": "shefa-vu05"
+  },
+  "code": {
+    "id": "VU05",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "area_council": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.674",
+    "lon": "168.365"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/vu/provinces/shefa-vu05/",
+    "api": "https://openadmindata.org/api/vu/"
+  }
+}

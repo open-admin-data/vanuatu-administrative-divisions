@@ -1,0 +1,64 @@
+# Tafea — Vanuatu Administrative Divisions
+
+> 11 area councils
+> Code: VU06
+> Coordinates: -18.809, 169.111
+> Last updated: 2026-06-08. License: CC-BY-4.0.
+
+## Area Councils
+
+### Aneityum
+
+Code: VU06021, Coordinates: -20.194, 169.826
+
+
+### Aniwa
+
+Code: VU06005, Coordinates: -19.244, 169.601
+
+
+### Futuna
+
+Code: VU06004, Coordinates: -19.529, 170.216
+
+
+### Middle Bush Tanna
+
+Code: VU06062, Coordinates: -19.465, 169.316
+
+
+### North Erromango
+
+Code: VU06019, Coordinates: -18.762, 169.132
+
+
+### North Tanna
+
+Code: VU06026, Coordinates: -19.371, 169.298
+
+
+### South Erromango
+
+Code: VU06020, Coordinates: -18.905, 169.198
+
+
+### South Tanna
+
+Code: VU06022, Coordinates: -19.612, 169.448
+
+
+### South West Tanna
+
+Code: VU06023, Coordinates: -19.575, 169.341
+
+
+### West Tanna
+
+Code: VU06025, Coordinates: -19.471, 169.25
+
+
+### Whitesands
+
+Code: VU06024, Coordinates: -19.517, 169.427
+
+

@@ -1,0 +1,45 @@
+{
+  "id": "VU03051",
+  "level": 2,
+  "level_name": {
+    "local": "Area Council",
+    "en": "Area Council"
+  },
+  "name": {
+    "local": "East Ambae",
+    "en": "East Ambae",
+    "slug": "east-ambae-vu03051"
+  },
+  "code": {
+    "id": "VU03051",
+    "iso": null
+  },
+  "parent": {
+    "id": "VU03",
+    "level": 1,
+    "name": {
+      "local": "Penama",
+      "en": "Penama",
+      "slug": "penama-vu03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "VU03",
+      "level": 1,
+      "name": {
+        "local": "Penama",
+        "en": "Penama",
+        "slug": "penama-vu03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.324",
+    "lon": "167.946"
+  },
+  "metadata": {},
+  "source": {}
+}

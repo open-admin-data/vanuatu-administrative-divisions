@@ -1,0 +1,45 @@
+{
+  "id": "VU03017",
+  "level": 2,
+  "level_name": {
+    "local": "Area Council",
+    "en": "Area Council"
+  },
+  "name": {
+    "local": "North Pentecost",
+    "en": "North Pentecost",
+    "slug": "north-pentecost-vu03017"
+  },
+  "code": {
+    "id": "VU03017",
+    "iso": null
+  },
+  "parent": {
+    "id": "VU03",
+    "level": 1,
+    "name": {
+      "local": "Penama",
+      "en": "Penama",
+      "slug": "penama-vu03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "VU03",
+      "level": 1,
+      "name": {
+        "local": "Penama",
+        "en": "Penama",
+        "slug": "penama-vu03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.542",
+    "lon": "168.171"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "VU06021",
+  "level": 2,
+  "level_name": {
+    "local": "Area Council",
+    "en": "Area Council"
+  },
+  "name": {
+    "local": "Aneityum",
+    "en": "Aneityum",
+    "slug": "aneityum-vu06021"
+  },
+  "code": {
+    "id": "VU06021",
+    "iso": null
+  },
+  "parent": {
+    "id": "VU06",
+    "level": 1,
+    "name": {
+      "local": "Tafea",
+      "en": "Tafea",
+      "slug": "tafea-vu06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "VU06",
+      "level": 1,
+      "name": {
+        "local": "Tafea",
+        "en": "Tafea",
+        "slug": "tafea-vu06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.194",
+    "lon": "169.826"
+  },
+  "metadata": {},
+  "source": {}
+}

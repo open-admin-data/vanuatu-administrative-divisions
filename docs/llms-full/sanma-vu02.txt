@@ -1,0 +1,59 @@
+# Sanma — Vanuatu Administrative Divisions
+
+> 10 area councils
+> Code: VU02
+> Coordinates: -15.157, 167.051
+> Last updated: 2026-06-08. License: CC-BY-4.0.
+
+## Area Councils
+
+### Canal - Fanafo
+
+Code: VU02061, Coordinates: -15.496, 167.1
+
+
+### East Malo
+
+Code: VU02042, Coordinates: -15.69, 167.188
+
+
+### East Santo
+
+Code: VU02056, Coordinates: -15.142, 167.039
+
+
+### Luganville
+
+Code: VU02001, Coordinates: -15.501, 167.192
+
+
+### North Santo
+
+Code: VU02047, Coordinates: -15.037, 166.748
+
+
+### North West Santo
+
+Code: VU02044, Coordinates: -14.862, 166.612
+
+
+### South East Santo
+
+Code: VU02046, Coordinates: -15.404, 167.05
+
+
+### South Santo
+
+Code: VU02045, Coordinates: -15.558, 166.903
+
+
+### West Malo
+
+Code: VU02043, Coordinates: -15.678, 167.109
+
+
+### West Santo
+
+Code: VU02048, Coordinates: -15.308, 166.705
+
+

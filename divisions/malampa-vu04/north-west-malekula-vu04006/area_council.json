@@ -1,0 +1,45 @@
+{
+  "id": "VU04006",
+  "level": 2,
+  "level_name": {
+    "local": "Area Council",
+    "en": "Area Council"
+  },
+  "name": {
+    "local": "North West Malekula",
+    "en": "North West Malekula",
+    "slug": "north-west-malekula-vu04006"
+  },
+  "code": {
+    "id": "VU04006",
+    "iso": null
+  },
+  "parent": {
+    "id": "VU04",
+    "level": 1,
+    "name": {
+      "local": "Malampa",
+      "en": "Malampa",
+      "slug": "malampa-vu04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "VU04",
+      "level": 1,
+      "name": {
+        "local": "Malampa",
+        "en": "Malampa",
+        "slug": "malampa-vu04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.022",
+    "lon": "167.233"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,44 @@
+# Torba — Vanuatu Administrative Divisions
+
+> 7 area councils
+> Code: VU01
+> Coordinates: -14.284, 167.513
+> Last updated: 2026-06-08. License: CC-BY-4.0.
+
+## Area Councils
+
+### Gaua
+
+Code: VU01053, Coordinates: -14.284, 167.513
+
+
+### Merelava
+
+Code: VU01065, Coordinates: -14.46, 168.042
+
+
+### Mota
+
+Code: VU01064, Coordinates: -13.846, 167.694
+
+
+### Motalava
+
+Code: VU01063, Coordinates: -13.679, 167.68
+
+
+### Torres
+
+Code: VU01055, Coordinates: -13.246, 166.624
+
+
+### Ureparapara
+
+Code: VU01066, Coordinates: -13.537, 167.312
+
+
+### Vanua Lava
+
+Code: VU01054, Coordinates: -13.839, 167.46
+
+

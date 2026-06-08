@@ -1,0 +1,45 @@
+{
+  "id": "VU06024",
+  "level": 2,
+  "level_name": {
+    "local": "Area Council",
+    "en": "Area Council"
+  },
+  "name": {
+    "local": "Whitesands",
+    "en": "Whitesands",
+    "slug": "whitesands-vu06024"
+  },
+  "code": {
+    "id": "VU06024",
+    "iso": null
+  },
+  "parent": {
+    "id": "VU06",
+    "level": 1,
+    "name": {
+      "local": "Tafea",
+      "en": "Tafea",
+      "slug": "tafea-vu06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "VU06",
+      "level": 1,
+      "name": {
+        "local": "Tafea",
+        "en": "Tafea",
+        "slug": "tafea-vu06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.517",
+    "lon": "169.427"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "VU04011",
+  "level": 2,
+  "level_name": {
+    "local": "Area Council",
+    "en": "Area Council"
+  },
+  "name": {
+    "local": "North Ambrym",
+    "en": "North Ambrym",
+    "slug": "north-ambrym-vu04011"
+  },
+  "code": {
+    "id": "VU04011",
+    "iso": null
+  },
+  "parent": {
+    "id": "VU04",
+    "level": 1,
+    "name": {
+      "local": "Malampa",
+      "en": "Malampa",
+      "slug": "malampa-vu04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "VU04",
+      "level": 1,
+      "name": {
+        "local": "Malampa",
+        "en": "Malampa",
+        "slug": "malampa-vu04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.178",
+    "lon": "168.143"
+  },
+  "metadata": {},
+  "source": {}
+}

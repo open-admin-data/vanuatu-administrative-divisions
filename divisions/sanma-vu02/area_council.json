@@ -1,0 +1,452 @@
+[
+  {
+    "id": "VU02061",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Canal - Fanafo",
+      "en": "Canal - Fanafo",
+      "slug": "canal-fanafo-vu02061"
+    },
+    "code": {
+      "id": "VU02061",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU02",
+      "level": 1,
+      "name": {
+        "local": "Sanma",
+        "en": "Sanma",
+        "slug": "sanma-vu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU02",
+        "level": 1,
+        "name": {
+          "local": "Sanma",
+          "en": "Sanma",
+          "slug": "sanma-vu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.496",
+      "lon": "167.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU02042",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "East Malo",
+      "en": "East Malo",
+      "slug": "east-malo-vu02042"
+    },
+    "code": {
+      "id": "VU02042",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU02",
+      "level": 1,
+      "name": {
+        "local": "Sanma",
+        "en": "Sanma",
+        "slug": "sanma-vu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU02",
+        "level": 1,
+        "name": {
+          "local": "Sanma",
+          "en": "Sanma",
+          "slug": "sanma-vu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.69",
+      "lon": "167.188"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU02056",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "East Santo",
+      "en": "East Santo",
+      "slug": "east-santo-vu02056"
+    },
+    "code": {
+      "id": "VU02056",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU02",
+      "level": 1,
+      "name": {
+        "local": "Sanma",
+        "en": "Sanma",
+        "slug": "sanma-vu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU02",
+        "level": 1,
+        "name": {
+          "local": "Sanma",
+          "en": "Sanma",
+          "slug": "sanma-vu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.142",
+      "lon": "167.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU02001",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "Luganville",
+      "en": "Luganville",
+      "slug": "luganville-vu02001"
+    },
+    "code": {
+      "id": "VU02001",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU02",
+      "level": 1,
+      "name": {
+        "local": "Sanma",
+        "en": "Sanma",
+        "slug": "sanma-vu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU02",
+        "level": 1,
+        "name": {
+          "local": "Sanma",
+          "en": "Sanma",
+          "slug": "sanma-vu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.501",
+      "lon": "167.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU02047",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "North Santo",
+      "en": "North Santo",
+      "slug": "north-santo-vu02047"
+    },
+    "code": {
+      "id": "VU02047",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU02",
+      "level": 1,
+      "name": {
+        "local": "Sanma",
+        "en": "Sanma",
+        "slug": "sanma-vu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU02",
+        "level": 1,
+        "name": {
+          "local": "Sanma",
+          "en": "Sanma",
+          "slug": "sanma-vu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.037",
+      "lon": "166.748"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU02044",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "North West Santo",
+      "en": "North West Santo",
+      "slug": "north-west-santo-vu02044"
+    },
+    "code": {
+      "id": "VU02044",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU02",
+      "level": 1,
+      "name": {
+        "local": "Sanma",
+        "en": "Sanma",
+        "slug": "sanma-vu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU02",
+        "level": 1,
+        "name": {
+          "local": "Sanma",
+          "en": "Sanma",
+          "slug": "sanma-vu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.862",
+      "lon": "166.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU02046",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "South East Santo",
+      "en": "South East Santo",
+      "slug": "south-east-santo-vu02046"
+    },
+    "code": {
+      "id": "VU02046",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU02",
+      "level": 1,
+      "name": {
+        "local": "Sanma",
+        "en": "Sanma",
+        "slug": "sanma-vu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU02",
+        "level": 1,
+        "name": {
+          "local": "Sanma",
+          "en": "Sanma",
+          "slug": "sanma-vu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.404",
+      "lon": "167.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU02045",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "South Santo",
+      "en": "South Santo",
+      "slug": "south-santo-vu02045"
+    },
+    "code": {
+      "id": "VU02045",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU02",
+      "level": 1,
+      "name": {
+        "local": "Sanma",
+        "en": "Sanma",
+        "slug": "sanma-vu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU02",
+        "level": 1,
+        "name": {
+          "local": "Sanma",
+          "en": "Sanma",
+          "slug": "sanma-vu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.558",
+      "lon": "166.903"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU02043",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "West Malo",
+      "en": "West Malo",
+      "slug": "west-malo-vu02043"
+    },
+    "code": {
+      "id": "VU02043",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU02",
+      "level": 1,
+      "name": {
+        "local": "Sanma",
+        "en": "Sanma",
+        "slug": "sanma-vu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU02",
+        "level": 1,
+        "name": {
+          "local": "Sanma",
+          "en": "Sanma",
+          "slug": "sanma-vu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.678",
+      "lon": "167.109"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VU02048",
+    "level": 2,
+    "level_name": {
+      "local": "Area Council",
+      "en": "Area Council"
+    },
+    "name": {
+      "local": "West Santo",
+      "en": "West Santo",
+      "slug": "west-santo-vu02048"
+    },
+    "code": {
+      "id": "VU02048",
+      "iso": null
+    },
+    "parent": {
+      "id": "VU02",
+      "level": 1,
+      "name": {
+        "local": "Sanma",
+        "en": "Sanma",
+        "slug": "sanma-vu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VU02",
+        "level": 1,
+        "name": {
+          "local": "Sanma",
+          "en": "Sanma",
+          "slug": "sanma-vu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.308",
+      "lon": "166.705"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

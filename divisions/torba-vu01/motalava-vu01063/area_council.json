@@ -1,0 +1,45 @@
+{
+  "id": "VU01063",
+  "level": 2,
+  "level_name": {
+    "local": "Area Council",
+    "en": "Area Council"
+  },
+  "name": {
+    "local": "Motalava",
+    "en": "Motalava",
+    "slug": "motalava-vu01063"
+  },
+  "code": {
+    "id": "VU01063",
+    "iso": null
+  },
+  "parent": {
+    "id": "VU01",
+    "level": 1,
+    "name": {
+      "local": "Torba",
+      "en": "Torba",
+      "slug": "torba-vu01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "VU01",
+      "level": 1,
+      "name": {
+        "local": "Torba",
+        "en": "Torba",
+        "slug": "torba-vu01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.679",
+    "lon": "167.68"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "VU06020",
+  "level": 2,
+  "level_name": {
+    "local": "Area Council",
+    "en": "Area Council"
+  },
+  "name": {
+    "local": "South Erromango",
+    "en": "South Erromango",
+    "slug": "south-erromango-vu06020"
+  },
+  "code": {
+    "id": "VU06020",
+    "iso": null
+  },
+  "parent": {
+    "id": "VU06",
+    "level": 1,
+    "name": {
+      "local": "Tafea",
+      "en": "Tafea",
+      "slug": "tafea-vu06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "VU06",
+      "level": 1,
+      "name": {
+        "local": "Tafea",
+        "en": "Tafea",
+        "slug": "tafea-vu06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.905",
+    "lon": "169.198"
+  },
+  "metadata": {},
+  "source": {}
+}

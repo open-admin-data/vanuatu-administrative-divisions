@@ -1,0 +1,45 @@
+{
+  "id": "VU05032",
+  "level": 2,
+  "level_name": {
+    "local": "Area Council",
+    "en": "Area Council"
+  },
+  "name": {
+    "local": "Tongariki",
+    "en": "Tongariki",
+    "slug": "tongariki-vu05032"
+  },
+  "code": {
+    "id": "VU05032",
+    "iso": null
+  },
+  "parent": {
+    "id": "VU05",
+    "level": 1,
+    "name": {
+      "local": "Shefa",
+      "en": "Shefa",
+      "slug": "shefa-vu05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "VU05",
+      "level": 1,
+      "name": {
+        "local": "Shefa",
+        "en": "Shefa",
+        "slug": "shefa-vu05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.917",
+    "lon": "168.545"
+  },
+  "metadata": {},
+  "source": {}
+}

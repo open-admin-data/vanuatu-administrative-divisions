@@ -1,0 +1,99 @@
+# Shefa — Vanuatu Administrative Divisions
+
+> 18 area councils
+> Code: VU05
+> Coordinates: -17.674, 168.365
+> Last updated: 2026-06-08. License: CC-BY-4.0.
+
+## Area Councils
+
+### Emau
+
+Code: VU05034, Coordinates: -17.482, 168.489
+
+
+### Erakor
+
+Code: VU05040, Coordinates: -17.691, 168.372
+
+
+### Eratap
+
+Code: VU05003, Coordinates: -17.772, 168.386
+
+
+### Eton
+
+Code: VU05037, Coordinates: -17.706, 168.502
+
+
+### Ifira
+
+Code: VU05039, Coordinates: -17.757, 168.293
+
+
+### Makimae
+
+Code: VU05033, Coordinates: -17.066, 168.373
+
+
+### Malorua
+
+Code: VU05041, Coordinates: -17.633, 168.263
+
+
+### Mele
+
+Code: VU05057, Coordinates: -17.649, 168.329
+
+
+### Nguna
+
+Code: VU05036, Coordinates: -17.448, 168.351
+
+
+### North Efate
+
+Code: VU05035, Coordinates: -17.573, 168.428
+
+
+### North Tongoa
+
+Code: VU05031, Coordinates: -16.896, 168.562
+
+
+### Pango
+
+Code: VU05038, Coordinates: -17.771, 168.291
+
+
+### Port Vila
+
+Code: VU05002, Coordinates: -17.732, 168.328
+
+
+### South Epi
+
+Code: VU05027, Coordinates: -16.787, 168.418
+
+
+### Tongariki
+
+Code: VU05032, Coordinates: -16.917, 168.545
+
+
+### Varisu
+
+Code: VU05030, Coordinates: -16.675, 168.222
+
+
+### Vermali
+
+Code: VU05029, Coordinates: -16.618, 168.179
+
+
+### Vermaul
+
+Code: VU05028, Coordinates: -16.74, 168.183
+
+

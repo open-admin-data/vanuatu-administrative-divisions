@@ -1,0 +1,881 @@
+{
+  "_attribution": "Data from Open Admin Data (https://openadmindata.org/vu/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/vanuatu-administrative-divisions",
+  "data": [
+    {
+      "id": "VU04",
+      "name": {
+        "local": "Malampa",
+        "en": "Malampa",
+        "slug": "malampa-vu04"
+      },
+      "code": {
+        "id": "VU04",
+        "iso": null
+      },
+      "area_council": [
+        {
+          "id": "VU04008",
+          "name": {
+            "local": "Central Malekula",
+            "en": "Central Malekula",
+            "slug": "central-malekula-vu04008"
+          },
+          "code": {
+            "id": "VU04008",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU04011",
+          "name": {
+            "local": "North Ambrym",
+            "en": "North Ambrym",
+            "slug": "north-ambrym-vu04011"
+          },
+          "code": {
+            "id": "VU04011",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU04007",
+          "name": {
+            "local": "North East Malekula",
+            "en": "North East Malekula",
+            "slug": "north-east-malekula-vu04007"
+          },
+          "code": {
+            "id": "VU04007",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU04006",
+          "name": {
+            "local": "North West Malekula",
+            "en": "North West Malekula",
+            "slug": "north-west-malekula-vu04006"
+          },
+          "code": {
+            "id": "VU04006",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU04013",
+          "name": {
+            "local": "Paama",
+            "en": "Paama",
+            "slug": "paama-vu04013"
+          },
+          "code": {
+            "id": "VU04013",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU04012",
+          "name": {
+            "local": "South East Ambrym",
+            "en": "South East Ambrym",
+            "slug": "south-east-ambrym-vu04012"
+          },
+          "code": {
+            "id": "VU04012",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU04009",
+          "name": {
+            "local": "South East Malekula",
+            "en": "South East Malekula",
+            "slug": "south-east-malekula-vu04009"
+          },
+          "code": {
+            "id": "VU04009",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU04058",
+          "name": {
+            "local": "South Malekula",
+            "en": "South Malekula",
+            "slug": "south-malekula-vu04058"
+          },
+          "code": {
+            "id": "VU04058",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU04059",
+          "name": {
+            "local": "South West Malekula",
+            "en": "South West Malekula",
+            "slug": "south-west-malekula-vu04059"
+          },
+          "code": {
+            "id": "VU04059",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU04010",
+          "name": {
+            "local": "West Ambrym",
+            "en": "West Ambrym",
+            "slug": "west-ambrym-vu04010"
+          },
+          "code": {
+            "id": "VU04010",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "VU03",
+      "name": {
+        "local": "Penama",
+        "en": "Penama",
+        "slug": "penama-vu03"
+      },
+      "code": {
+        "id": "VU03",
+        "iso": null
+      },
+      "area_council": [
+        {
+          "id": "VU03060",
+          "name": {
+            "local": "Central Pentecost 1",
+            "en": "Central Pentecost 1",
+            "slug": "central-pentecost-1-vu03060"
+          },
+          "code": {
+            "id": "VU03060",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU03018",
+          "name": {
+            "local": "Central Pentecost 2",
+            "en": "Central Pentecost 2",
+            "slug": "central-pentecost-2-vu03018"
+          },
+          "code": {
+            "id": "VU03018",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU03051",
+          "name": {
+            "local": "East Ambae",
+            "en": "East Ambae",
+            "slug": "east-ambae-vu03051"
+          },
+          "code": {
+            "id": "VU03051",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU03050",
+          "name": {
+            "local": "North Ambae",
+            "en": "North Ambae",
+            "slug": "north-ambae-vu03050"
+          },
+          "code": {
+            "id": "VU03050",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU03014",
+          "name": {
+            "local": "North Maewo",
+            "en": "North Maewo",
+            "slug": "north-maewo-vu03014"
+          },
+          "code": {
+            "id": "VU03014",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU03017",
+          "name": {
+            "local": "North Pentecost",
+            "en": "North Pentecost",
+            "slug": "north-pentecost-vu03017"
+          },
+          "code": {
+            "id": "VU03017",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU03049",
+          "name": {
+            "local": "South Ambae",
+            "en": "South Ambae",
+            "slug": "south-ambae-vu03049"
+          },
+          "code": {
+            "id": "VU03049",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU03015",
+          "name": {
+            "local": "South Maewo",
+            "en": "South Maewo",
+            "slug": "south-maewo-vu03015"
+          },
+          "code": {
+            "id": "VU03015",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU03016",
+          "name": {
+            "local": "South Pentecost",
+            "en": "South Pentecost",
+            "slug": "south-pentecost-vu03016"
+          },
+          "code": {
+            "id": "VU03016",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU03052",
+          "name": {
+            "local": "West Ambae",
+            "en": "West Ambae",
+            "slug": "west-ambae-vu03052"
+          },
+          "code": {
+            "id": "VU03052",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "VU02",
+      "name": {
+        "local": "Sanma",
+        "en": "Sanma",
+        "slug": "sanma-vu02"
+      },
+      "code": {
+        "id": "VU02",
+        "iso": null
+      },
+      "area_council": [
+        {
+          "id": "VU02061",
+          "name": {
+            "local": "Canal - Fanafo",
+            "en": "Canal - Fanafo",
+            "slug": "canal-fanafo-vu02061"
+          },
+          "code": {
+            "id": "VU02061",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU02042",
+          "name": {
+            "local": "East Malo",
+            "en": "East Malo",
+            "slug": "east-malo-vu02042"
+          },
+          "code": {
+            "id": "VU02042",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU02056",
+          "name": {
+            "local": "East Santo",
+            "en": "East Santo",
+            "slug": "east-santo-vu02056"
+          },
+          "code": {
+            "id": "VU02056",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU02001",
+          "name": {
+            "local": "Luganville",
+            "en": "Luganville",
+            "slug": "luganville-vu02001"
+          },
+          "code": {
+            "id": "VU02001",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU02047",
+          "name": {
+            "local": "North Santo",
+            "en": "North Santo",
+            "slug": "north-santo-vu02047"
+          },
+          "code": {
+            "id": "VU02047",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU02044",
+          "name": {
+            "local": "North West Santo",
+            "en": "North West Santo",
+            "slug": "north-west-santo-vu02044"
+          },
+          "code": {
+            "id": "VU02044",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU02046",
+          "name": {
+            "local": "South East Santo",
+            "en": "South East Santo",
+            "slug": "south-east-santo-vu02046"
+          },
+          "code": {
+            "id": "VU02046",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU02045",
+          "name": {
+            "local": "South Santo",
+            "en": "South Santo",
+            "slug": "south-santo-vu02045"
+          },
+          "code": {
+            "id": "VU02045",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU02043",
+          "name": {
+            "local": "West Malo",
+            "en": "West Malo",
+            "slug": "west-malo-vu02043"
+          },
+          "code": {
+            "id": "VU02043",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU02048",
+          "name": {
+            "local": "West Santo",
+            "en": "West Santo",
+            "slug": "west-santo-vu02048"
+          },
+          "code": {
+            "id": "VU02048",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "VU05",
+      "name": {
+        "local": "Shefa",
+        "en": "Shefa",
+        "slug": "shefa-vu05"
+      },
+      "code": {
+        "id": "VU05",
+        "iso": null
+      },
+      "area_council": [
+        {
+          "id": "VU05034",
+          "name": {
+            "local": "Emau",
+            "en": "Emau",
+            "slug": "emau-vu05034"
+          },
+          "code": {
+            "id": "VU05034",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU05040",
+          "name": {
+            "local": "Erakor",
+            "en": "Erakor",
+            "slug": "erakor-vu05040"
+          },
+          "code": {
+            "id": "VU05040",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU05003",
+          "name": {
+            "local": "Eratap",
+            "en": "Eratap",
+            "slug": "eratap-vu05003"
+          },
+          "code": {
+            "id": "VU05003",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU05037",
+          "name": {
+            "local": "Eton",
+            "en": "Eton",
+            "slug": "eton-vu05037"
+          },
+          "code": {
+            "id": "VU05037",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU05039",
+          "name": {
+            "local": "Ifira",
+            "en": "Ifira",
+            "slug": "ifira-vu05039"
+          },
+          "code": {
+            "id": "VU05039",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU05033",
+          "name": {
+            "local": "Makimae",
+            "en": "Makimae",
+            "slug": "makimae-vu05033"
+          },
+          "code": {
+            "id": "VU05033",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU05041",
+          "name": {
+            "local": "Malorua",
+            "en": "Malorua",
+            "slug": "malorua-vu05041"
+          },
+          "code": {
+            "id": "VU05041",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU05057",
+          "name": {
+            "local": "Mele",
+            "en": "Mele",
+            "slug": "mele-vu05057"
+          },
+          "code": {
+            "id": "VU05057",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU05036",
+          "name": {
+            "local": "Nguna",
+            "en": "Nguna",
+            "slug": "nguna-vu05036"
+          },
+          "code": {
+            "id": "VU05036",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU05035",
+          "name": {
+            "local": "North Efate",
+            "en": "North Efate",
+            "slug": "north-efate-vu05035"
+          },
+          "code": {
+            "id": "VU05035",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU05031",
+          "name": {
+            "local": "North Tongoa",
+            "en": "North Tongoa",
+            "slug": "north-tongoa-vu05031"
+          },
+          "code": {
+            "id": "VU05031",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU05038",
+          "name": {
+            "local": "Pango",
+            "en": "Pango",
+            "slug": "pango-vu05038"
+          },
+          "code": {
+            "id": "VU05038",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU05002",
+          "name": {
+            "local": "Port Vila",
+            "en": "Port Vila",
+            "slug": "port-vila-vu05002"
+          },
+          "code": {
+            "id": "VU05002",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU05027",
+          "name": {
+            "local": "South Epi",
+            "en": "South Epi",
+            "slug": "south-epi-vu05027"
+          },
+          "code": {
+            "id": "VU05027",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU05032",
+          "name": {
+            "local": "Tongariki",
+            "en": "Tongariki",
+            "slug": "tongariki-vu05032"
+          },
+          "code": {
+            "id": "VU05032",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU05030",
+          "name": {
+            "local": "Varisu",
+            "en": "Varisu",
+            "slug": "varisu-vu05030"
+          },
+          "code": {
+            "id": "VU05030",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU05029",
+          "name": {
+            "local": "Vermali",
+            "en": "Vermali",
+            "slug": "vermali-vu05029"
+          },
+          "code": {
+            "id": "VU05029",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU05028",
+          "name": {
+            "local": "Vermaul",
+            "en": "Vermaul",
+            "slug": "vermaul-vu05028"
+          },
+          "code": {
+            "id": "VU05028",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "VU06",
+      "name": {
+        "local": "Tafea",
+        "en": "Tafea",
+        "slug": "tafea-vu06"
+      },
+      "code": {
+        "id": "VU06",
+        "iso": null
+      },
+      "area_council": [
+        {
+          "id": "VU06021",
+          "name": {
+            "local": "Aneityum",
+            "en": "Aneityum",
+            "slug": "aneityum-vu06021"
+          },
+          "code": {
+            "id": "VU06021",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU06005",
+          "name": {
+            "local": "Aniwa",
+            "en": "Aniwa",
+            "slug": "aniwa-vu06005"
+          },
+          "code": {
+            "id": "VU06005",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU06004",
+          "name": {
+            "local": "Futuna",
+            "en": "Futuna",
+            "slug": "futuna-vu06004"
+          },
+          "code": {
+            "id": "VU06004",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU06062",
+          "name": {
+            "local": "Middle Bush Tanna",
+            "en": "Middle Bush Tanna",
+            "slug": "middle-bush-tanna-vu06062"
+          },
+          "code": {
+            "id": "VU06062",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU06019",
+          "name": {
+            "local": "North Erromango",
+            "en": "North Erromango",
+            "slug": "north-erromango-vu06019"
+          },
+          "code": {
+            "id": "VU06019",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU06026",
+          "name": {
+            "local": "North Tanna",
+            "en": "North Tanna",
+            "slug": "north-tanna-vu06026"
+          },
+          "code": {
+            "id": "VU06026",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU06020",
+          "name": {
+            "local": "South Erromango",
+            "en": "South Erromango",
+            "slug": "south-erromango-vu06020"
+          },
+          "code": {
+            "id": "VU06020",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU06022",
+          "name": {
+            "local": "South Tanna",
+            "en": "South Tanna",
+            "slug": "south-tanna-vu06022"
+          },
+          "code": {
+            "id": "VU06022",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU06023",
+          "name": {
+            "local": "South West Tanna",
+            "en": "South West Tanna",
+            "slug": "south-west-tanna-vu06023"
+          },
+          "code": {
+            "id": "VU06023",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU06025",
+          "name": {
+            "local": "West Tanna",
+            "en": "West Tanna",
+            "slug": "west-tanna-vu06025"
+          },
+          "code": {
+            "id": "VU06025",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU06024",
+          "name": {
+            "local": "Whitesands",
+            "en": "Whitesands",
+            "slug": "whitesands-vu06024"
+          },
+          "code": {
+            "id": "VU06024",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "VU01",
+      "name": {
+        "local": "Torba",
+        "en": "Torba",
+        "slug": "torba-vu01"
+      },
+      "code": {
+        "id": "VU01",
+        "iso": null
+      },
+      "area_council": [
+        {
+          "id": "VU01053",
+          "name": {
+            "local": "Gaua",
+            "en": "Gaua",
+            "slug": "gaua-vu01053"
+          },
+          "code": {
+            "id": "VU01053",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU01065",
+          "name": {
+            "local": "Merelava",
+            "en": "Merelava",
+            "slug": "merelava-vu01065"
+          },
+          "code": {
+            "id": "VU01065",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU01064",
+          "name": {
+            "local": "Mota",
+            "en": "Mota",
+            "slug": "mota-vu01064"
+          },
+          "code": {
+            "id": "VU01064",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU01063",
+          "name": {
+            "local": "Motalava",
+            "en": "Motalava",
+            "slug": "motalava-vu01063"
+          },
+          "code": {
+            "id": "VU01063",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU01055",
+          "name": {
+            "local": "Torres",
+            "en": "Torres",
+            "slug": "torres-vu01055"
+          },
+          "code": {
+            "id": "VU01055",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU01066",
+          "name": {
+            "local": "Ureparapara",
+            "en": "Ureparapara",
+            "slug": "ureparapara-vu01066"
+          },
+          "code": {
+            "id": "VU01066",
+            "iso": null
+          }
+        },
+        {
+          "id": "VU01054",
+          "name": {
+            "local": "Vanua Lava",
+            "en": "Vanua Lava",
+            "slug": "vanua-lava-vu01054"
+          },
+          "code": {
+            "id": "VU01054",
+            "iso": null
+          }
+        }
+      ]
+    }
+  ]
+}
