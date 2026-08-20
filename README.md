@@ -11,9 +11,10 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-08-19 |
+| Last Updated | 2026-08-20 |
 | Website | [openadmindata.org/vu](https://openadmindata.org/vu/) |
 | API | [openadmindata.org/api/vu](https://openadmindata.org/api/vu/) |
+| Flag | [PNG](https://onlygames.me/flags-png/vu/) · [SVG](https://onlygames.me/flags-svg/vu/) · [PDF](https://onlygames.me/flags-pdf/vu/) |
 | National Anthem | [🎵 Listen & Download Vanuatu National Anthem MP3](https://onlygames.me/national-anthems/vu/) |
 
 ## Browse by Province
